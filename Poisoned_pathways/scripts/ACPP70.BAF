@@ -136,6 +136,15 @@ THEN
 END
 
 IF
+    Global("AmuletJournalTalisman","ACPP70",0)
+    PartyHasItem("AC#PPCO1")
+THEN
+    RESPONSE #100
+        AddJournalEntry(@13013,QUEST)
+        SetGlobal("AmuletJournalTalisman","ACPP70",1)
+END
+
+IF
     Global("AC#PPAmuletJournalAll","GLOBAL",0)
     PartyHasItem("AC#PPWOD")
     PartyHasItem("AC#PPWIW")
