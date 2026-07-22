@@ -182,6 +182,7 @@
 @954 = ~Holzschnitzer~
 @955 = ~Zar’khaans Wunder~
 
+// itm files
 @1000 = ~Vergifteter Pfeil~
 @1001 = ~Dieser Pfeil ist mit einem gefährlichen Gift überzogen, welches sich auf gewöhnliche Weise nicht kurieren lässt. Ihr sollt den Pfeil zu Alatoasz Berendim ins Dämmerwaldtal, Eldaths Heiligtum, bringen, damit das Gift untersucht und seine Herkunft zurückverfolgt werden kann.~
 
@@ -190,7 +191,7 @@
 
 Ein einziger Tropfen ihres Saftes genügt, um einen Erwachsenen zu töten — oder, in kundigen Händen, ein Heilmittel gegen ebenso tödliche Leiden zu bereiten. Druiden begegnen der Pflanze mit zwiespältigem Respekt: Als natürlichem Teil des Gleichgewichts der Welt, doch auch als Mahnung, dass selbst die schönsten Gaben der Natur tödlich sein können.
 
-Ihr müsst eine dieser Blüten zu Alatoasz Berendim nach Dämmerwaldtal bringen.~
+Ihr müsst eine dieser Blüten zu Alatoasz Berendim ins Dämmerwaldtal bringen.~
 
 @1004 = ~Pilzschlüssel~
 @1005 = ~Dieser Schlüssel ist von Schmutz und seltsamen Sporen überwuchert. Er scheint eine ganz bestimmte Art von Tür zu öffnen.~
@@ -201,49 +202,47 @@ Ihr müsst eine dieser Blüten zu Alatoasz Berendim nach Dämmerwaldtal bringen.
 ich brauche Euch, um eine größere Lieferung meiner Arbeit an mehrere interessierte Gruppen auszuliefern. Trefft mich am markierten Ort im Fliegenpilz-Hain. Vernichtet diese Nachricht, damit sie nicht in falsche Hände gerät.
 
 Delgorth~
-// itm files
 
 @1008 = ~Keltormir, das gefallene Elfenreich~
 @1009 = ~Keltormir, das gefallene Elfenreich
 von Elenneth Moonsyl, Weiser von Immereska
 
-Alle Wälder erinnern sich. Selbst wenn die Bäume gefallen und die Lieder verklungen sind bewahren die Wurzeln das Gedächtnis.
+Alle Wälder erinnern sich. Selbst wenn die Bäume gefallen und die Lieder verklungen sind bewahren die Wurzeln ihre Geschichte.
 
-In den frühen Tagen Torils, lange vor dem Aufstieg Calimshans oder Tethyrs, erstreckte sich Keltormir im Süden Faerûns. In Ehrfurcht vor den Seldarine und im Einklang mit der Natur regiert, errichteten die Elfen ein Reich in inniger Gemeinschaft mit dem Land.
+In den frühen Tagen Torils, lange vor dem Aufstieg Calimshans oder Tethyrs, erstreckte sich das Elfenreich Keltormir im Süden Faerûns. In Ehrfurcht vor den Seldarine und im Einklang mit der Natur errichtet, schufen die Elfen ein Reich in inniger Gemeinschaft mit dem umgebenden Land.
 
-Zu den dauerhaftesten Vermächtnissen Keltormirs zählen drei von Mythalen geschützte Städte, jede ein Sinnbild elfischer Magie und Kultur — und ein jede heutzutage verblasst und gefallen: Myth Rhynn, Myth Unnohyr und Myth Tellaren.
+Zu den dauerhaftesten Vermächtnissen Keltormirs zählen drei von Mythalen geschützte Städte, jede ein Sinnbild elfischer Magie und Hochkultur — und eine jede heutzutage verblasst und gefallen: Myth Rhynn, Myth Unnohyr und Myth Tellaren.
 
 Myth Rhynn
-Tief verborgen in den schattigen Weiten des Wealdath liegt Myth Rhynn, die Totenstadt der Elfen. Ihr Mythal wurde für die Ruhe der Toten gewoben. Doch der Mythal ist zerbrochen. Ob durch Alter oder Entweihung — er vermag die Toten nicht länger im Schlaf zu halten. Nun wandeln Untote zwischen den Schatten uralter Gräber, und rastlose Geister erheben sich in der Stille. Selbst die Elfen, die einst kamen, um ihre Ahnen zu ehren, meiden diesen Ort, denn die Fäden des zerrissenen Mythals ziehen an ihren Herzen. Was einst eine heilige Ruhestätte war, ist nun eine Quelle ewigen Untotes.
+Tief verborgen in den schattigen Weiten des Wealdath liegt Myth Rhynn, die Totenstadt der Elfen. Einst wurde ihr Mythal gewoben, um den Toten ewige Ruhe zu schenken. Doch das uralte Schutzgeflecht ist zerbrochen. Ob durch Alter oder Entweihung – es vermag die Toten nicht länger in ihren Gräbern zu halten. Nun wandeln Untote zwischen den Schatten der uralten Gräber, und rastlose Geister erheben sich im Zwielicht. Selbst die Elfen, die einst kamen, um ihre Ahnen zu ehren, meiden nun diesen Ort, denn die Magie des zerrissenen Mythals zieht an ihren Herzen. Was einst eine heilige Ruhestätte war, ist nun eine Quelle ewigen Untodes.
 
 Myth Unnohyr
-Myth Unnohyr erhob sich einst in den schattigen Tälern der südlichen Wälder Keltormirs. Seine Magie nährte Wachstum und tiefe Verbundenheit mit der Natur. Doch vor langer Zeit begann sich der Mythal aufzulösen. Als der mächtige magische Schutz verblasste, verdrehte sich der Mythal und gebar eine Zone wilder und toter Magie, die bis heute fortbesteht. Heute wagen sich nur wenige in diese Ruinen, wo tote Magie in den Boden trieft und die vergiftete Luft von rastlosen unbändigen Wogen durchdrungen ist.
+Myth Unnohyr erhob sich einst in den schattigen Tälern der südlichen Wälder Keltormirs. Seine Magie nährte Wachstum und tiefe Verbundenheit mit der Natur. Doch vor langer Zeit begann sich der Mythal aufzulösen. Als der mächtige magische Schutz verblasste, verdrehte sich der Mythal und gebar eine Zone wilder und toter Magie, die bis heute fortbesteht. Heute wagen sich nur wenige in diese Ruinen, wo tote Magie in den Boden sickert und die vergiftete Luft von rastlosen unbändigen Wogen durchdrungen ist.
 
 Myth Tellaren
-Weit im Süden in den Landen, die heute unter Wüstensand begraben liegen, stand einst Myth Tellaren. Als die Dschinnfürsten Calim und Memnon das Land zerstörten, erreichte ihr Chaos selbst die verborgenen Orte der Elfen. Der Mythal von Myth Tellaren, unter dem Druck der Dschinn erschüttert, zerbrach — und mit ihm die feine Magie, die die Stadt erhielt. Manche vermuten, die Ruine existiere noch immer unter den wandernden Sanddünen, eingeschlossen im Augenblick magischen Zusammenbruchs — ihr Mythal längst gebrochen und und für immer zerstört, wie Glut, welche zur Asche wurde.
+Weit im Süden in den Landen, die heute unter Wüstensand begraben liegen, stand einst Myth Tellaren. Als die Dschinnfürsten Calim und Memnon das Land zerstörten, erreichte ihr Chaos selbst die verborgenen Orte der Elfen. Der Mythal von Myth Tellaren, unter dem Druck der Dschinn erschüttert, zerbrach — und mit ihm die feine Magie, die die Stadt ernährte. Manche vermuten, die Ruine existiere noch immer unter den wandernden Sanddünen, eingeschlossen im Augenblick magischen Zusammenbruchs — ihr Mythal längst gebrochen und für immer zerstört, wie Glut, welche zur Asche wurde.
 
-Obgleich Keltormir verschwunden ist, hallt sein einstiger Glanz noch wider. Wo uralte Bäume stehen, wo Magie singt oder sich gänzlich versagt — dort stand einst das Imperium der Elfen. Und vielleicht wird es eines Tages wieder auferstehen.~
+Obgleich Keltormir verschwunden ist, hallt sein einstiger Glanz noch wider. Wo uralte Bäume stehen, wo Magie singt oder gänzlich versagt — dort stand einst das Imperium der Elfen. Und vielleicht wird es eines Tages wieder auferstehen.~
 
 @1010 = ~Fragment eines Amuletts~
-@1011 = ~Dies ist ein Fragment eines Anhängers, welches drei ineinander verschlungene goldene Ringe zeigt — ein heiliges Symbol, das einst von einem uralten elfischen Hüter der Magie und der Einheit verehrt wurde. Obwohl unvollständig, schwingt das Fragment noch schwach im Einklang mit dem verdorbenen Mythal von Myth Unnohyr. Wenn Ihr es haltet, spürt Ihr, wie der bedrückende Einfluss um Euch herum geringfügig nachlässt. Doch ohne das vollständige Amulett bleibt seine schützende Kraft wirkungslos.~
+@1011 = ~Dies ist das Fragment eines Anhängers, welches drei ineinander verschlungene goldene Ringe zeigt — ein heiliges Symbol, das einst einem uralten elfischen Hüter der Magie geweiht war. Obwohl es unvollständig ist, schwingt der Gegenstand noch schwach im Einklang mit dem verdorbenen Mythal von Myth Unnohyr. Wenn Ihr es haltet, spürt Ihr, wie der bedrückende Einfluss seiner Magie um Euch herum geringfügig nachlässt. Doch ohne das vollständige Amulett bleibt seine schützende Kraft wirkungslos.~
 
 @1012 = ~Kopf eines Elfen~
-@1013 = ~Dies ist der abgetrennte Kopf eines einst bemerkenswert gutaussehenden elfischen Mannes. Um seinen Hals sind Strähnen langen, seidigen Haares geschlungen — selbst im Tod noch an ihn geklammert. Offenbar wurde er erwürgt; nicht von Seil oder Kordel, sondern von jemandes Haar.~  
+@1013 = ~Dies ist der abgetrennte Kopf eines elfischen Mannes. Um seinen Hals sind Strähnen langen, geflochtenen Haares geschlungen. Offenbar wurde er erwürgt; nicht durch Seil oder Kordel, sondern von jemandes Haar.~  
 
 @1014 = ~Goldene Kette~
-@1015 = ~Dies ist eine kunstvoll gearbeitete goldene Kette, mit größter Sorgfalt gefertigt, um einst ein prächtiges Amulett zu tragen. Obwohl das Medaillon selbst der Zeit zum Opfer fiel, haftet der Kette noch immer ein schwacher Nachklang ihrer uralten Verzauberung an — eine vergessene Pflicht zu schützen und zu bewahren.~
+@1015 = ~Dies ist eine kunstvoll gearbeitete goldene Kette, welche einst ein prächtiges Amulett getragen haben muss. Obwohl das Medaillon selbst der Zeit zum Opfer fiel, trägt die Kette noch immer einen Hauch ihrer alten Verzauberung.~
 
 @1016 = ~Mythriens Amulett~
-@1017 = ~Geschmiedet in den Tagen der Gründung von Myth Unnohyr, trug dieses Kleinod das Zeichen dreier ineinander verschlungener Ringe — das Symbol des beinahe vergessenen elfischen Gottes der Mythale, Mythrien Sarath. Selbst Jahrhunderte des Verfalls vermochten nur seine äußere Pracht zu trüben; ein zarter Widerhall seiner einstigen Macht ist geblieben. In der Gegenwart dieses Relikts schwächen sich die Unbändigen Wogen und die tote Magie des zerbrochenen Mythals ab. Es gewährt denjenigen Schutz, die durch die zerschmetterten Straßen der Stadt wandeln.
+@1017 = ~Geschmiedet in den Tagen der Gründung von Myth Unnohyr, trägt dieses Schmuckstück das Zeichen dreier ineinander verschlungener Ringe – das Symbol des beinahe vergessenen elfischen Gottes der Mythale, Mythrien Sarath. Obwohl vieles seines alten Glanzes verblasst ist, ist ein Rest der alten Magie geblieben. Der Träger des Gegenstandes ist vor den unbändigen Wogen und der toten Magie des Mythals von Myth Unnohyr geschützt.
 
 Ausgerüstete Fähigkeiten: 
-– Immunität gegen Effekte wilder Magie und toter Magiezonen in Myth Unnohyr
+– Immunität gegen die Effekte wilder Magie und toter Magie in Myth Unnohyr
 
 Gewicht: 0~
-// itm files
 
 @1018 = ~Amulett der Lebenskraft~
-@1019 = ~Schlicht im Äußeren, doch von stiller Kraft durchdrungen, pulsiert diese Halskette schwach mit lebensspendender Energie. Ihr sanftes Leuchten stärkt den Körper des Trägers und spendet selbst in Zeiten von Erschöpfung und Leid neue Kraft.
+@1019 = ~Schlicht im Äußeren, doch von stiller Kraft durchdrungen, pulsiert diese Halskette schwach mit lebensspendender Energie. Ihr sanftes Leuchten stärkt den Körper des Trägers und spendet neue Kraft.
 
 EIGENSCHAFTEN:
 
@@ -252,7 +251,7 @@ EIGENSCHAFTEN:
 Gewicht: 0~
 
 @1020 = ~Trank des Friedens~
-@1021 = ~Geschöpft aus einer Quelle, in der Eldaths Segen ungestört fließt, trägt dieses geweihte Gebräu mehr als bloße Heilung in sich. Wer davon trinkt, fühlt sich gestärkt und erleichtert — als trüge eine sanfte Strömung alle Sorgen davon.
+@1021 = ~Geschöpft aus einer Quelle Eldaths, spendet dieses Getränk mehr als bloße Erfrischung: Wer davon trinkt, fühlt sich gestärkt und voll neuer Lebenskraft. 
 
 EIGENSCHAFTEN:
 
@@ -261,19 +260,18 @@ Heilt Gift und Krankheiten, entfernt Flüche und stellt 5 Trefferpunkte wieder h
 Gewicht: 1~
 
 @1022 = ~Heiliges Wasser der Eldath~
-@1023 = ~Dies ist eine Karaffe mit heiligem Wasser der Eldath. Es ist eine der Zutaten, die benötigt werden, um ein Gegengift gegen das vom Priester Talonas geschaffene Gift herzustellen.
+@1023 = ~Dies ist eine Karaffe mit dem heiligem Wasser Eldaths. Es ist eine der Zutaten, die benötigt werden, um ein Gegengift gegen das vom Priester Talonas geschaffene Gift herzustellen.
   
 EIGENSCHAFTEN:
 
 Gewicht: 1~
-// itm files
 
 @1024 = ~Irrlicht-Angriff~
 @1025 = ~Pocken-Irrlicht-Angriff~
 @1030 = ~Ring des Gespenstes~
 @1031 = ~Helm~
 @1032 = ~Helm der Elfenlieder~
-@1033 = ~Dieser Helm ist bekannt als der Helm der Elfenlieder. Geschmiedet von einem meisterhaften elfischen Schmied, schwingt er im Einklang mit den uralten Harmonien seines Volkes. Wird er von einem Elfen getragen, verstärkt er dessen natürliche Begabungen und erlaubt es dem Träger, einen alten elfischen Gesang anzustimmen, der ihm und seinen Gefährten Kraft verleiht.
+@1033 = ~Geschmiedet von einem meisterhaften elfischen Schmied, ist dieser Helm bekannt als der Helm der Elfenlieder. Er schwingt im Einklang mit den uralten Harmonien seines Volkes. Wird er von einem Elfen getragen, verstärkt er dessen natürliche Begabungen und erlaubt es dem Träger, einen alten elfischen Gesang anzustimmen, der ihm und seinen Gefährten Kraft verleiht.
 
 EIGENSCHAFTEN:
 
@@ -286,8 +284,6 @@ Fähigkeiten (Aufladungen):
 
 Gewicht: 0~
 
-// itm files
-
 @1037 = ~Ionenstein~
 @1038 = ~Beerenförmiger Ionenstein~
 @1039 = ~Dieser Ionenstein ist wie eine Beere geformt. Jemand muss Magie gewirkt haben, um ihm dieses Aussehen zu verleihen.
@@ -296,16 +292,16 @@ EIGENSCHAFTEN:
 
 Gewicht: 0~
 
-@1040 = ~Dieser Ionenstein soll von einem mächtigen Kleriker Talonas erschaffen worden sein. In der Form einer säuerlich grünen Beere gehalten, verströmt er einen scharfen, unreifen Geruch, der unangenehm in der Luft verweilt.
+@1040 = ~Dieser Ionenstein soll von einem mächtigen Kleriker Talonas erschaffen worden sein. In der Form einer säuerlich aussehenden Beere gehalten, verströmt er einen scharfen, unreifen Geruch.
 
-Gewisse Taloniten nutzten solche Steine, um mit rivalisierenden Priestern abzurechnen — insbesondere mit jenen, die ihren giftgetränkten Ambitionen im Wege standen. Wenig überraschend verweigert der Stein Wesen guter Gesinnung sein Tragen.
+Taloniten nutzten solche Steine, um mit rivalisierenden Priestern abzurechnen — insbesondere mit jenen, die ihren giftgetränkten Ambitionen im Wege stehen. Wesen guter Gesinnung vermögen diesen Gegenstand nicht zu tragen.
 
 EIGENSCHAFTEN:
 
 – ETW0 gegen Kleriker: +3 Bonus
 
 Besondere Fähigkeiten:
-– Wenn getragen oder angelegt, vertreibt dieser Ionenstein die giftigen Dämpfe, die den Eingang zum Turm in Myth Unnohyr versperren
+– Dieser Ionenstein vertreibt die giftigen Dämpfe, die den Eingang zum Turm des Taloniten in Myth Unnohyr versperren
 
 Gewicht: 0~
 
@@ -327,11 +323,10 @@ Erfordert:
  6 Stärke
 
 Gewicht: 8~
-// itm files
 
 @1044 = ~Himmlisches Gegengift~
 @1045 = ~Himmlisches Gegengift~
-@1046 = ~Dies ist das Gegengift, das Ihr im Kessel des Taloniten unter Myth Unnohyr gebraut habt. Man sagt, es heile jene, die von dem starken Toxin befallen sind, das aus den seltsamen Blumen der Ruinen gewonnen wurde.
+@1046 = ~Dies ist das Gegengift, das Ihr im Kessel des Taloniten unter Myth Unnohyr hergestellt habt. Es neutralisiert das gefährliche Toxin, welches aus den gifitgen Blumen dieser Stadt gewonnen wurde.
   
 EIGENSCHAFTEN:
 
@@ -339,9 +334,9 @@ Gewicht: 1~
 
 @1047 = ~Umhang~
 @1048 = ~Eldaths Umarmung~
-@1049 = ~Dieser verzauberte Umhang geht auf einen zurückgezogen lebenden Priester Eldaths zurück, der vor langen Zeiten durch die Wälder des Faerûns wanderte. Vögel nisteten in seinen Händen, Wölfe hüteten seinen Schlaf, und selbst die scheuesten Tiere traten näher, um in seiner friedvollen Gegenwart zu verweilen.
+@1049 = ~Dieser verzauberte Umhang geht auf einen zurückgezogen lebenden Priester Eldaths zurück, der vor vielen Jahren durch die Wälder Faerûns wandelte. Vögel nisteten in seinem Haupt, Wölfe hüteten seinen Schlaf, und selbst die scheuesten Tiere traten näher, um in seiner friedvollen Gegenwart zu verweilen.
 
-Als er aus der Welt schied, webten Dryaden diesen Mantel aus den Blättern, die um seine Ruhestätte herabgefallen waren. Wer ihn trägt, schreitet in stiller Anmut — und die wilden Geschöpfe der Welt schreiten an seiner Seite.
+Als er aus der Welt schied, webten Dryaden aus den Blättern, die um seine Ruhestätte herabgefallen waren, diesen Mantel. Wer ihn trägt, schreitet in stiller Anmut — und die wilden Geschöpfe des Waldes schreiten an seiner Seite.
 
 EIGENSCHAFTEN:
 
@@ -357,7 +352,7 @@ Gewicht: 3~
 
 @1050 = ~Rotwabenblume~
 
-@1051 = ~Diese wunderschöne, süß duftende Blume ist ein Geschenk eines Jungen aus Dämmerwaldtal an seine Tante im Regierungsviertel von Athkatla. Er bittet Euch, ihr die Blume zusammen mit einer Botschaft zu überbringen: Dass es ihm gut gehe und er Zeit für sich brauche.
+@1051 = ~Diese wunderschöne, süß duftende Blume ist ein Geschenk eines Jungen aus dem Dämmerwaldtal an seine Tante im Regierungsviertel von Athkatla. Er bittet Euch, ihr die Blume zusammen mit folgender Botschaft zu überbringen: Dass es ihm gut gehe und er einfach Zeit für sich brauche.
 
 EIGENSCHAFTEN:
 Gewicht: 1~
@@ -405,9 +400,9 @@ Gewicht: 0~
 @1062 = ~Tartsche~
 @1063 = ~Laubläufer +3~
 
-@1064 = ~Diese elegante Tartsche gehörte einst einer druidischen Hüterin namens Blasanna Laubläufer, von der sie auch den Namen trägt. Als eine Gnollhorde ihren Hain und ihre Sippe bedrohte, stellte sich Blasanna ihnen allein entgegen. Legenden berichten, sie habe sich mit der Schnelligkeit eines Sturmwinds bewegt und die Hälfte der Angreifer niedergestreckt, bevor die übrigen in panischer Furcht flohen.
+@1064 = ~Diese elegante Tartsche gehörte einst der Druidin Blasanna Laubläufer, von der sie auch den Namen trägt. Als eine Gnollhorde ihren Hain bedrohte, stellte sich Blasanna ihnen entgegen. 
 
-Manche sagen, ihre Geschwindigkeit sei der Tartsche selbst zu verdanken gewesen, dessen Magie ihr die Anmut der Wildnis verlieh. Andere glauben, es sei der Geist des Waldes gewesen, der sie vorantrug und nicht zulassen wollte, dass seine Hüterin fiel.
+Manche sagen, die Tartsche selbst habe ihr übernatürliche Schnelligkeit bei diesem Kampf verliehen. Andere glauben, der Geist des Waldes habe sie getragen und nicht zugelassen, dass seine Hüterin fiel.
 
 EIGENSCHAFTEN:
 
@@ -424,7 +419,7 @@ Gewicht: 2~
 
 @1065 = ~Kräutertrunk~
 
-@1066 = ~Dieses Gebräu besteht aus Kamille, wildem Honig, Brombeere und Lavendel und wirkt äußerst beruhigend. Ihr sollt diesen Trunk der Sirene am Wasser im Dämmerwaldtal bringen, damit sie Frieden findet.
+@1066 = ~Dieser Trunk besteht aus Kamille, wildem Honig, Brombeere und Lavendel. Ihr sollt ihn der Sirene am Wasser im Dämmerwaldtal bringen, damit sie zur Ruhe findet.
   
 EIGENSCHAFTEN: 
 
@@ -433,22 +428,22 @@ Gewicht: 2~
 @1067 = ~Delgorths Notiz~
 
 @1068 = ~Erster Eintrag:
-Die Hainblüte... ich habe sie gefunden! Sie blüht noch immer in den Ruinen Myth Unnohyrs, der Ort, an dem Magie stirbt oder sich verdreht. Talona lächelt über meine Entdeckung!
+Die Hainblüte; ich habe sie gefunden! Sie blüht noch immer in den Ruinen Myth Unnohyrs. Talona lächelt über meine Entdeckung!
 
 Zweiter Eintrag:
-Mit mühseliger Sorgfalt habe ich die ersten Essenzen destilliert. Geringe Mengen zwar — doch kostbare Tropfen des Todes. Die Ergebnisse übertreffen bereits alle Erwartungen: Das Gift ist rasch und unheilbar.
+Mit mühsamer Sorgfalt habe ich die ersten Essenzen destilliert. Nur wenige Tropfen — doch jeder davon bringt den Tod: Das Gift ist rasch und unheilbar.
 
 Dritter Eintrag:
-Meine ersten Lieferungen gingen an die Feinde der Harfner. Kleinliche Fürsten, enttäuschte Söldner und jene, die das Eingreifen der Harfner als Bedrohung des wahren Gleichgewichts betrachten. Mögen die Selbstgerechten an ihrer eigenen Frömmigkeit ersticken!
+Meine erste Lieferung ging an die Feinde der Harfner. Machtgierige Fürsten, rachsüchtige Söldner und andere, die mit der Gruppe noch eine Rechnung offen hatten. Mögen die Selbstgerechten an ihrer eigenen Rechtschaffenheit ersticken!
 
 Vierter Eintrag:
-Die Nachtmasken in Westtor haben Interesse bekundet. Auch die Zhentarim könnten noch nützlich sein — sofern man sie auf Abstand hält.
+Die Nachtmasken in Westtor haben Interesse an meinem Gift bekundet. Auch die Zhentarim verlangen eine Probe, um die Wirksamkeit zu erproben. Ich muss vorsichtig bleiben, wem ich mein Wundermittel anvertraue.
 
 Fünfter Eintrag:
 Mir ist es zwar gelungen, einige Blumen im toten Boden zu kultivieren, doch sie wachsen langsam und tragen nur wenige Blüten. Es wird Jahre dauern, bis genügend Gift für meine Pläne gewonnen ist. Ich muss einen Weg finden, das Wachstum zu beschleunigen!
 
 Sechster Eintrag:
-Ein Priester Eldaths wollte mir das Handwerk legen und kostete von meinem Gift. Andere werden ihm folgen. Mögen die Starken fallen und die Schwachen vergehen. Nur der Verfall ist ewig!
+Ein Priester Eldaths wollte mir das Handwerk legen und wurde ebenfalls Opfer meines Gifts. Andere werden ihm folgen. Mögen die Starken fallen und die Schwachen vergehen. Nur Verderbnis ist ewig!
 
 Malagent Delgorth
 ~
@@ -456,7 +451,7 @@ Malagent Delgorth
 @1075 = ~Stirnband~
 @1076 = ~Stirnband des geronnenen Blutes~
 
-@1077 = ~Aus geronnenen, verhärteten Blutklumpen geformt, zierte dieses Stirnband einst das Haupt eines uralten Blut-Amnioten, der unter Myth Unnohyr gefangen war. Es ist nicht bloß eine Krone, sondern eine Gestalt gewordene Narbe.
+@1077 = ~Aus geronnenen, verhärteten Blutklumpen geformt, zierte dieses Stirnband einst das Haupt eines uralten Blut-Amnioten, der unter Myth Unnohyr hauste und sich vom Blut der Gefallenen nährte.
 
 EIGENSCHAFTEN:
 
@@ -515,8 +510,7 @@ Gewicht: 3
 ~
 
 @1087 = ~Rose der Eldath~
-
-@1088 = ~Dies ist eine von einem Priester Eldaths gesegnete Rosenblüte. Wird sie verzehrt, stellt sie die Lebenskraft eines Geschwächten wieder her und macht jeglichen Stufenverlust rückgängig, der durch unnatürliche Kräfte oder untote Kreaturen verursacht wurde.
+@1088 = ~Diese von einem Priester Eldaths gesegnete Rosenblüte macht jeden durch Untote oder unnatürliche Kräfte verursachten Stufenverlust rückgängig.
 
 EIGENSCHAFTEN:
 
@@ -528,11 +522,11 @@ Gewicht: 1~
 
 @1090 = ~Viel Glück, Geißblatt +3~
 
-@1091 = ~Dieses wohlbalancierte Zweihandschwert gehörte einst einem Waldläufer namens Vala’ll Stormneedle, einem geschätzten Beschützer der Region Larswald. Er war nicht nur für seine Kampffertigkeit bekannt, sondern auch für seine Lebensfreude — ein erfülltes Leben, eine liebevolle Familie und seine Gemahlin Systianna, eine Getreue Tymoras.
+@1091 = ~Dieses wohlbalancierte Zweihandschwert gehörte einst einem Waldläufer namens Vala’ll Sturmnadel, einem Beschützer des Scharfzahnwaldes. Er war nicht nur für seine Kampfkunst bekannt, sondern auch für seine Lebensfreude. An der Seite seiner Gemahlin Systianna, einer Getreuen Tymoras, führte er ein erfülltes Leben.
 
 Vor jeder Mission küsste sie ihn auf die Wange, reichte ihm die Klinge und flüsterte: „Viel Glück, Geißblatt.“ Anders als viele Volkshelden, deren Geschichten in Blut enden, ist Vala’lls Legende eine des seltenen Friedens: Er lebte mit Systianna bis ins achtzigste Lebensjahr, starb weder durch Schwert noch durch Zauber, sondern an einer Lungenentzündung.
 
-Manche glauben, es sei eben diese Klinge gewesen, die ihn all die Jahre schützte — ein stiller Gefährte, der sein Leben weit über das Maß der meisten hinaus bewahrte, die mit Stahl in der Hand wandeln.
+Manche glauben, es sei eben diese Klinge gewesen, die ihn all die Jahre schützte.
   
 EIGENSCHAFTEN:
 
@@ -553,9 +547,9 @@ Gewicht: 9~
 
 @1093 = ~Dornenschütze +1~
 
-@1094 = ~Diese einzigartige Armbrust erschafft ihre eigenen magischen Dornbolzen: scharfe, mit Widerhaken versehene Geschosse, die Feinde beim Aufprall verfangen können.
+@1094 = ~Diese einzigartige Armbrust erschafft ihre eigenen magischen Dornbolzen: scharfe, mit Widerhaken versehene Geschosse, die Feinde beim Aufprall verstricken können.
 
-Aufgrund der druidischen Verzauberungen, die in die Waffe gewoben wurden, können nur einklassige Druiden sie wirkungsvoll führen.
+Aufgrund der druidischen Verzauberungen, die in die Waffe gewoben wurden, können nur reinklassige Druiden sie wirkungsvoll führen.
 
 EIGENSCHAFTEN:
 – Setzt Armbrust-Fertigkeit auf 1
@@ -576,13 +570,10 @@ Gewicht: 6~
 
 @1146 = ~An den, der dies findet:
 
-Der Mythal, das einst Myth Unnohyr schützte, ist korrumpiert. In diesen Ruinen verfällt Magie ohne Vorwarnung — Gebete verhallen ungehört, Zauber verkrümmen sich oder vergehen im Nichts.
+Der Mythal, der einst Myth Unnohyr umhüllte, ist korrumpiert. In diesen Ruinen versagt Magie ohne Vorwarnung. Gebete verhallen ungehört, Zauber schlagen fehl oder oder geraten außer Kontrolle.
 
-Und doch ist nicht alles verloren. Gewisse Wesen — darunter Irrlichter — scheinen sich an die Verderbnis des Mythals angepasst zu haben. Ihre Widerstandskraft deutet darauf hin, dass Immunität nicht unmöglich ist.
-
-Bevor meine Kräfte mich verließen, stellte ich die Theorie auf, dass ein uraltes elfisches Relikt wiederhergestellt werden könnte — eines, das die ursprüngliche Macht des Mythals kanalisieren und seinen Träger vor dessen verderblichem Einfluss schützen kann. Vielleicht wäre es dann möglich, in diesen Ruinen erneut zu zaubern.
-
-Ich vermute, dass die Essenzen von Irrlichtern, geboren aus wilder wie aus toter Magie, verbunden mit dem elfischen Talisman selbst, einen solchen Effekt hervorbringen könnten. Sollten solche seltenen Irrlichter tatsächlich in diesen Ruinen verweilen, und sollte es gelingen, den uralten Talisman neu zu schmieden, wäre das Leben eines Magiers hier weit weniger prekär.
+Und doch ist nicht alles verloren. Bevor mich meine Kräfte verließen, stellte ich die Theorie auf, dass ein uraltes elfisches Relikt wiederhergestellt werden könnte: Ein Talisman, der die ursprüngliche Macht des Mythals kanalisieren und seinen Träger vor dessen verderblichem Einfluss schützen kann. 
+Bestimmte Wesen — darunter Irrlichter — scheinen sich auch an die Verderbnis des Mythals angepasst zu haben. Ich vermute, dass die Essenzen von Irrlichtern, geboren aus wilder und aus toter Magie, verbunden mit dem elfischen Talisman selbst, den Gegenstand zu seiner alten Funktion zurückbringen könnten. Sollten solche seltenen Irrlichter tatsächlich in diesen Ruinen verweilen, und sollte es gelingen, den uralten Talisman neu zu schmieden, wäre das Leben eines Magiers hier weit weniger prekär: Vielleicht wäre es dann wieder möglich, in diesen Ruinen gefahrlos Zauber zu wirken.
 
 Ob ein solcher Talisman je erschaffen werden kann, werde ich nicht mehr erleben.
 
@@ -592,50 +583,44 @@ Möget Ihr mehr Erfolg haben als ich.~
 
 @1148 = ~Niedergeschrieben von Lirael von den Sanften Ufern, Hüterin des Stillen Beckens
 
-Ich war noch jung, als ich erstmals tief in den Scharfzahnwald wanderte. Die Ältesten hatten mich vorher gewarnt: „Nicht alle, die unter dem Grün wandeln, ehren das Leben.“
-Doch mein Herz kannte keine Furcht, nur den Ruf, Eldaths Frieden dorthin zu tragen, wohin meine Schritte mich auch führten.
+Ich war noch jung, als ich erstmals in den Mantelwald wanderte. Die Ältesten hatten mich vorher gewarnt: „Nicht alle, die im Schatten der Bäume wandeln, ehren das Leben.“
+Doch mein Herz kannte keine Furcht. Nur den Wunsch, Eldaths Glauben dorthin zu tragen, wohin meine Schritte mich auch führten.
 
-Drei Nächte schlief ich unter dem sternklaren Blätterdach. Am vierten Abend begegnete ich dem Oger Brughul, dessen Knüppel nach Blut dürstete.
+Drei Nächte schlief ich behütet unter dem Blätterdach. Am vierten Abend begegnete ich dem Oger Brughul.
 
-Ein Reh, gefesselt und zitternd, lag nahe seinem Feuer. Brughul ragte über ihm auf, sein Knüppel glänzte von frischem Blut. Ich hätte fliehen können. Ich hätte mit Zauber oder Flamme zuschlagen können.
+Ein Reh, gefesselt und zitternd, lag nahe seinem Feuer. Brughul ragte über ihm auf, bereit, es zu schlachten. Sein Knüppel glänzte von geronnenem Blut. Ich hätte fliehen können und damit das Tier seinem Schicksal überlassen. 
 
-Doch ich tat, was Eldath stets gelehrt hatte: Ich setzte mich.
-
-Die Handflächen offen. Und ich begann das alte Wiegenlied der stillen Wasser zu singen.
+Doch ich tat das, was mich Eldath gelehrt hatte: Ich begann zu singen.
 
 „Kein Blut stillt je so rein das Licht,
 Wie Quell, der klar aus Tiefe bricht.
 Kein Schrei vermag, was Ruhe schafft,
 denn Frieden wächst aus stiller Kraft.“
 
-Brughuls Zorn schwankte. Der Unhold trat näher. Ich roch seinen Atem, als er seinen Waffenarm hob. Doch sein Griff lockerte sich. Der Knüppel fiel ins Moos.  Und dann — Stille. Nur das leise Plätschern des Rehes, als es ins seichte Wasser taumelte und verschwand.
+Brughuls Kopf schoss herum und seine gelben Augen blickten mich mordlüstern an. Der Unhold trat näher. Ich hörte seinen Atem, als er seinen Waffenarm hob und schloss die Augen, bereit, mit einem einzigen Schlag niedergestreckt zu werden. Doch auf einmal hörte ich, wie der Knüppel vor mir ins Moos fiel. Und dann — Stille. Nur das leise Plätschern des Rehes, als es ins seichte Wasser taumelte und verschwand.
 Als ich die Augen öffnete, war ich allein. 
 
-Man sagt, an jenem Ort wachse nun ein Ring weißer Lilien, wo zuvor nichts blühte.
+Man sagt, an jenem Ort wachse nun ein Ring weißer Lilien, wo zuvor niemals etwas blühte.
 
 (Obwohl dieser Gegenstand kulturellen Wert besitzen mag, scheint er weder magisch noch von Nutzen für Eure Aufgabe zu sein.)~
 
 @1149 = ~Geschichten des Friedenswanderers II~
 
-@1150 = ~Bruder Eolan — ein Freiwanderer Eldaths — trug weder Münze noch Waffe noch Karte, als er barfuß durch Amn wanderte. Nur einen Wasserschlauch und ein Herz frei von Zorn. Wo andere die Klinge gegen Fremde erhoben, bot er Stille, und wenn die Welt Erbarmen verhöhnte, reichte er dennoch seine Hand.
+@1150 = ~Bruder Eolan, ein Freiwanderer Eldaths, trug weder Waffe noch Karte, als er barfuß durch Amn wanderte. Nur einen Wasserschlauch und ein Herz frei von Zorn. Wo andere die Klinge gegen Fremde erhoben, schenkte er ein Lächeln, und wenn sein Gegenüber die Hand zur Waffe führte, reichte er ihm dennoch seine Hand.
 
-In der Schlucht des Gefallenen Götzen wurde er jedoch am härtesten geprüft.
+In der Schlucht des Gefallenen Götzen wurde er jedoch am härtesten geprüft. Vor langer Zeit stürzte dort die Statue eines vergessenen Gottes von den Klippen und zerbrach im Abgrund. Seitdem zieht die Schlucht all jene mit finsteren Absichten an.
 
-Die Schlucht schneidet tief in die Ausläufer der Schmalen Zähne. Vor langer Zeit stürzte dort die Statue eines vergessenen Gottes von den Klippen und zerbrach im Abgrund. Seitdem zieht die Schlucht all jene mit finsteren Absichten an.
+Eine von ihnen war Dornschlund, die von Narben gezeichnete Anführerin einer Räuberbande. Als Eolan ihr Gebiet betrat, sahen sie und ihre Sippe in ihm leichte Beute.
 
-Eine von ihnen war Dornschlund, eine von Narben gezeichnete Räuberanführerin. Als Bruder Eolan ihr Gebiet betrat, sahen sie und ihre Sippe in ihm leichte Beute.
+Doch er flehte nicht, er bat auch nicht um Gnade, als er ihnen entgegentrat. Er kniete einfach nieder. Im Staub am Rand des zerschmetterten Götzen zog er seinen Wasserschlauch hervor. Mit beiden Händen bot er ihn Dornschlund dar. Sein Blick traf den ihren. Und er sprach: „Wann habt Ihr zuletzt ohne Furcht frisches, reines Wasser getrunken?“
 
-Doch er flehte nicht, er verhandelte nicht. Er kniete einfach nieder. Im Staub am Rand des zerschmetterten Götzen zog er seinen Wasserschlauch hervor. Mit beiden Händen bot er ihn ihr dar. Sein Blick traf den ihren. Und er sprach: „Wann habt Ihr zuletzt ohne Furcht getrunken?“
+Die anderen lachten. Doch Dornschlund lachte nicht. Ihre Hand verharrte am Gürtel, wo ihre gekrümmte Klinge noch schwer vom getrockneten Blut hing. Dann trat sie vor, nahm den Wasserschlauch, und trank.
 
-Die anderen lachten. Doch Dornschlund nicht. Ihre Hand verharrte am Gürtel, wo die gekrümmte Klinge schwer von getrocknetem Blut hing. Sie trat vor. Nahm den Wasserschlauch. Trank.
+Sie schleuderte den leeren Schlauch ihn in die Schlucht und wandte sich von Eolan ab: „Geht.“
 
-Dann schleuderte sie ihn in die Schlucht und wandte sich ab. „Geht.“
+Und Eolan stand auf und ging. Er verschwand in den südlichen Pässen, ohne dass jemand Hand oder Klaue an ihn legte.
 
-Und er ging.
-
-Es legte niemand weder Hand noch Klaue an ihn. Er verschwand in den südlichen Pässen wie Nebel vor dem Morgen.
-
-Im nächsten Jahr trug der gefallene Götze etwas Neues — eine zarte grüne Ranke, die sich durch seine gesprungenen steinernen Lippen wand, und Wasser sammelte sich an seinem Fuß.
+Im nächsten Jahr zeigte sich am gefallenen Götzen etwas Neues: Eine zarte grüne Ranke, die sich um die gesprungenen steinernen Füße wand, und reines Quellwasser sammelte sich an seinem Sockel.
 
 (Obwohl dieser Gegenstand kulturellen Wert besitzen mag, scheint er weder magisch noch von Nutzen für Eure Aufgabe zu sein.)~
 
@@ -660,7 +645,7 @@ Gewicht: 1~
 
 @1158 = ~Hellebarde der grimmigen Bisse +2~
 
-@1159 = ~Diese Hellebarde besitzt drei zahnartige Spitzen, die selbst durch manche Rüstungen dringen und verheerenden Schaden anrichten können.
+@1159 = ~Diese Hellebarde besitzt drei zahnartige Spitzen, die durch Rüstungen dringen und verheerenden Schaden anrichten können.
   
 EIGENSCHAFTEN:
 
@@ -790,8 +775,7 @@ Gewicht: 8~
 
 @1176 = ~Dämmerwald-Plattenpanzer~
 
-@1177 = ~Diese kunstvoll gefertigte Rüstung besteht aus geschichteten Platten aus Dämmerholz. Obwohl sie den soliden Schutz einer gewöhnlichen Plattenrüstung bietet, ist sie leichter und stärker mit den Energien der Natur verbunden.  
-Ihre organische Struktur erlaubt es selbst einklassigen Druiden, sie zu tragen, ohne ihre heiligen Gelübde zu brechen.
+@1177 = ~Diese kunstvoll gefertigte Rüstung besteht aus geschichteten Platten von Dämmerholz. Obwohl sie den Schutz einer gewöhnlichen Plattenrüstung bietet, bleibt sie der Natur verbunden. Ihre organische Struktur erlaubt es selbst einklassigen Druiden, sie zu tragen, ohne ihre heiligen Gelübde zu brechen.
 
 EIGENSCHAFTEN:
 
@@ -841,7 +825,7 @@ Gewicht: 1~
 
 @1184 = ~Gesicht des Waldes~
 
-@1185 = ~Diese Maske zeigt ein ruhiges Gesicht – weder elfisch noch menschlich, sondern etwas Älteres. Wer sie aufsetzt, spürt die stille Kraft des Waldes. In Wäldern belebt ihre Magie das Blut und heilt kleine Wunden. Die natürlichen Fasern der Maske verhärten sich bei Gefahr und bieten sowohl körperlichen Schutz als auch eine unheimliche Widerstandskraft gegen tödliche Treffer.
+@1185 = ~Diese Maske ist das Abbild einer ernsten Waldkreatur. Wer sie aufsetzt, spürt die stille Kraft der Bäume. In Wäldern heilt sie kleine Wunden, und das Holz bietet Schutz gegen Hiebe und Treffer.
 
 EIGENSCHAFTEN:
 
@@ -880,7 +864,7 @@ Dann ... werde ich wieder einen Körper haben. Einen vollkommenen. Ein Gefäß w
 
 @1191 = ~Seuchenstab~
 
-@1192 = ~Aus dem Kernholz eines lange toten Baumes geschnitzt, verströmt dieser Stab einen schwachen Geruch von Verfall. Man sagt, Talona selbst habe ihn einst einem sterblichen Champion geschenkt, dessen bloße Berührung Schwäche und Fieber brachte. Der Seuchenstab tötet nicht schnell; er verbreitet Mattigkeit, Krankheit und Unausweichlichkeit – bis die Kraft seines Opfers vollständig erlischt.
+@1192 = ~Aus dem Kernholz eines lange toten Baumes geschnitzt, verströmt dieser Stab einen fauligen Geruch von Verfall. Man sagt, Talona selbst habe ihn einst einem sterblichen Champion geschenkt. Der Seuchenstab tötet nicht schnell; er verbreitet Mattigkeit, Krankheit und Schwäche, bis die Kraft seines Opfers vollständig erlischt.
 
 EIGENSCHAFTEN:
 
@@ -900,7 +884,7 @@ Gewicht: 3~
 
 @1193 = ~Pfeile der Betörung~
 
-@1194 = ~Diese kunstvoll gefertigten Pfeile sind von keiner gewöhnlichen Machart. Ihre Spitzen sind zu kleinen Herzen aus polierter Koralle geformt, die im Licht schwach schimmern. Wenn sie abgeschossen werden, versuchen sie den Willen ihres Ziels zu brechen und auf die Seite des Schützen zu ziehen.
+@1194 = ~Diese kunstvoll gefertigten Pfeile sind von keiner gewöhnlichen Machart. Ihre Spitzen sind zu kleinen Herzen aus polierter Koralle geformt, die im Licht schwach rosa schimmern. Wenn sie abgeschossen werden, versuchen sie den Willen ihres Ziels zu brechen und auf die Seite des Schützen zu ziehen.
 
 EIGENSCHAFTEN:
 
@@ -914,7 +898,7 @@ Gewicht: 0~
 
 @1195 = ~Giftkugeln~
 
-@1196 = ~Diese Schleudergeschosse sind mit einem dicken, übelriechenden Kontaktgift überzogen. Beim Aufprall dringt es in die Wunde ein und verursacht eine schwere Vergiftung.
+@1196 = ~Diese Schleudergeschosse sind mit einem dicken, übelriechenden Kontaktgift überzogen. Beim Aufprall dringt es in die Haut ein und verursacht eine schwere Vergiftung.
 
 EIGENSCHAFTEN:
 
@@ -929,7 +913,7 @@ Gewicht: 0~
 
 @1197 = ~Verdorrter Zweig~
 
-@1198 = ~Diese Keule ist nichts weiter als ein knorriger, verdorrter Ast, dessen Oberfläche vor Schmerzen verdreht wirkt. Sie wurde von einem Baum tief in einem seuchenverseuchten Hain geschnitten, an welchem Talonas Atem alles Leben erstickt hatte. Die Dornen tragen eine stumpfgrüne Patina – Rückstände jahrzehntelanger Giftsegnungen.
+@1198 = ~Diese Keule ist nichts weiter als ein knorriger, verdorrter Ast, dessen Oberfläche wie vor Schmerzen verdreht wirkt. Sie wurde von einem Baum tief in einem seuchenverseuchten Hain geschnitten, an welchem Talonas Atem alles Leben erstickt hatte. Die Dornen tragen eine stumpfgrüne Patina – Rückstände jahrzehntelanger Giftsegnungen.
 
 EIGENSCHAFTEN:
 
@@ -947,9 +931,9 @@ Gewicht: 1~
 
 @1199 = ~Baumhirtenhandschuhe~
 
-@1200 = ~Diese massiven Handschuhe bestehen aus Rinde und Wurzeln. Druiden erzählen, sie seien aus Ehrfurcht vor den Baumhirten des Waldes von Tethir geschaffen worden – Wächtern so geduldig wie der Wald  selbst.
+@1200 = ~Diese massiven Handschuhe bestehen aus Rinde und Wurzeln. Druiden erzählen, sie seien aus Ehrfurcht vor den Baumhirten des Waldes von Tethir geschaffen worden.
 
-Wenn der Träger durch Rindenhaut gehärtet ist, verleihen die Handschuhe ihrem Träger die Kraft einer mächtigen Eiche.
+Wenn der Träger durch Rindenhaut geschützt ist, verleihen die Handschuhe ihrem Träger zusätzlich die Kraft einer mächtigen Eiche.
 
 EIGENSCHAFTEN:
 
@@ -959,7 +943,7 @@ Gewicht: 2~
 
 @1201 = ~Amulett der inneren Stille~
 
-@1202 = ~Dieses schlichte hölzerne Amulett, in das eine einzelne grüne Perle gefasst ist, trägt keine Inschrift. Man sagt, es sei in den Wassern Eldaths gesegnet worden. Wenn Stille den Träger umgibt, erhebt sich ein tiefer innerer Frieden, der den Geist gegen jede fremde Einflussnahme schützt. Weder Verwirrung noch Bezauberung, Beherrschung noch betäubende Magie vermögen das stille Zentrum der Seele zu erschüttern.
+@1202 = ~Dieses schlichte hölzerne Amulett, in das eine einzelne grüne Perle gefasst ist, trägt keine Inschrift. Wenn Stille den Träger umgibt, erhebt sich ein tiefer innerer Frieden, der den Geist gegen jede fremde Einflussnahme schützt.
 
 EIGENSCHAFTEN:
 
@@ -969,7 +953,7 @@ Gewicht: 1~
 
 @1203 = ~Honigmet aus dem Dämmerwaldtal~
 
-@1204 = ~Dieses schwere Gefäß ist mit goldenem Met gefüllt, gebraut von einem Mönch im Dämmerwaldtal. Der Nektar trägt die geduldige Arbeit unzähliger Bienen.
+@1204 = ~Dieses schwere Gefäß ist mit goldenem Met gefüllt, hergestellt von einem Mönch im Dämmerwaldtal. Der Nektar trägt die geduldige Arbeit unzähliger Bienen.
 
 Der Mönch hat Euch gebeten, es zu Samuel Donnerbölk, dem Wirt der Fünf Krüge in Athkatla, zu bringen. Sobald Ihr die Bezahlung erhalten habt, sollt Ihr mit dem Gold zu ihm zurückkehren, um Euren Anteil am Verkauf zu erhalten.
 
@@ -1008,17 +992,17 @@ Dieses vom Zahn der Zeit gezeichnete Buch stammt aus der Feder des Weisen Elmins
 Der Anhang befasst sich offenbar mit neu entdeckten Varianten bekannter Kreaturen. Besonders bemerkenswert:
 
 „Irrlichter  
-Diese bleichen, schwebenden Lichter spuken durch Sümpfe und Ruinen und nähren sich von Furcht. Sie locken Reisende in die Irre und greifen mit knisternden Blitzen an. Schwer durch Stahl oder Zauber zu verletzen, zählen sie zu den tückischsten kleineren Untoten.“
+Diese bleichen, schwebenden Lichter spuken durch Sümpfe und Ruinen und nähren sich von Furcht. Sie locken Reisende in die Irre und greifen mit knisternden Blitzen an. Schwer durch Stahl oder Zauber zu verletzen, zählen sie zu den tückischsten kleineren Kreaturen.“
 
 „Wildes Irrlicht  
 Eine Mutation, geboren aus instabiler Magie. In ständig wechselnden Blitzen flackernd, verdrehen diese Lichter die Zauber um sich herum — Schutzzauber brechen zusammen, magische Schübe brechen aus, Verzauberungen geraten außer Kontrolle. Man findet sie meist in Regionen unbändiger Magie.“
 
 „Todes-Irrlicht  
-Geschöpfe aus Zonen toter Magie. Die bleichen Kugeln nähren sich nicht von Furcht, sondern von Lebenskraft. Sie verweilen dort, wo selbst die Magie versagt hat — in den Zonen toter Magie.“~
+Geschöpfe aus Zonen toter Magie. Die bleichen Kugeln nähren sich nicht von Furcht, sondern von Lebenskraft. Sie verweilen dort, wo die Magie versagt hat — in den Zonen toter Magie.“~
 
 @1210 = ~Essenz eines Todes-Irrlichts~
 
-@1211 = ~Ein schwach leuchtender Funke blassen Lichts, kalt bei Berührung und beunruhigend still. Überlieferungen besagen, dass eine solche Essenz dazu dienen könnte, die Leere auszugleichen, wo das Gewebe der Magie versagt hat.~
+@1211 = ~Ein schwach leuchtender Funke blassen Lichts, kalt bei Berührung und beunruhigend still.~
 
 @1212 = ~Essenz eines Wilden Irrlichts~
 
@@ -1048,7 +1032,7 @@ Gewicht: 1~
 
 @1218 = ~Trugklinge~
 
-@1219 = ~Von Dschinn geschmiedet, welche Illusion und Bewegung zu vereinen suchten, vermag diese Klinge ihren Träger in schimmernde Spiegelbilder zu hüllen — und denjenigen, der sie schwingt zu einer wandelnden Fata Morgana zu machen.
+@1219 = ~Diese Klinge entstammt der Schmiedekunst der Dschinn. Sie vereint Illusion und Bewegung und hüllt ihren Träger in schimmernde Spiegelbilder.
 
 EIGENSCHAFTEN:
 
@@ -1069,7 +1053,7 @@ Gewicht: 1~
 
 Der Zauber Wunsch erfüllt wörtlich die Worte seines Anwenders. Dadurch kann die Wirklichkeit von Vergangenheit, Gegenwart oder Zukunft in gewissem Maße verändert werden. Je größer der Wunsch, desto stärker wird das Gefüge der Realität belastet — und desto größer ist die Gefahr unerwünschter Folgen.
 
-Merkwürdigerweise kann diese besondere Schriftrolle von jedem gelesen werden — nicht nur von jenen, die in den arkanen Künsten geschult sind. Ihre Worte sind in einer Sprache verfasst, so einfach und klar, dass selbst Ungelehrte sie laut sprechen können. Beinahe zu einfach sogar … zu gut, um wahr zu sein.~
+Merkwürdigerweise kann diese besondere Schriftrolle von jedem gelesen werden — nicht nur von jenen, die in den arkanen Künsten geschult sind. Ihre Worte sind in einer einfachen Sprache verfasst, so leicht und klar, dass selbst Ungelehrte sie laut sprechen können. Beinahe zu einfach sogar... zu gut, um wahr zu sein.~
 
 @1221 = ~Weisheitspunkt verloren~
 
@@ -1101,7 +1085,7 @@ Auch wenn diese Seiten für Eure Aufgabe keinen unmittelbaren Nutzen haben, kann
 
 @1226 = ~Siegelring des Hauses Vemmil~
 
-@1227 = ~Dieser prächtige Siegelring trägt das Wappen der Familie Vemmil, einer alten amnischen Händlerlinie, die für ihren Reichtum, ihr politisches Geschick und ihren erstaunlichen Mangel an Bescheidenheit bekannt ist. Unter den Eliten Amns wird sein Träger häufig mit einem Lächeln begrüßt — ob ehrlich oder nicht — während gleichzeitig sorgfältig das Silberbesteck gezählt wird.
+@1227 = ~Dieser prächtige Siegelring trägt das Wappen der Familie Vemmil, einer alten amnischen Händlerlinie, die für ihren Reichtum, ihr politisches Geschick und ihren Mangel an Bescheidenheit bekannt ist. Unter den Eliten Amns wird sein Träger häufig mit einem Lächeln begrüßt — ob ehrlich oder nicht — während gleichzeitig sorgfältig das Silberbesteck gezählt wird.
 
 EIGENSCHAFTEN:
 
@@ -1113,11 +1097,11 @@ Gewicht: 1~
 
 @1228 = ~Klinge von Tag und Nacht~
 
-@1229 = ~In den frühen Tagen von Myth Unnohyr geschmiedet, war dieses elegante Langschwert einst eine Zeremonialwaffe der elfischen Krieger, die dem Wächter der Mythale dienten. Als Klinge von Tag und Nacht bekannt, sollte sie das Gleichgewicht zwischen Wachsamkeit und Ruhe verkörpern — zwischen der Wärme der Sonne und der stillen Kraft des Mondes.
+@1229 = ~Dieses elegante Langschwert wurde in den frühen Tagen von Myth Unnohyr als Zeremonialwaffe der elfischen Wächter der Mythale geschmiedet. Als Klinge von Tag und Nacht sollte sie das Gleichgewicht zwischen Kraft und Einkehr verkörpern – zwischen der Wärme der Sonne und dem Leuchten des Mondes.
 
-Legenden berichten, dass das Schwert zerbrach, als der schützende Mythal der Stadt zu schwinden begann, und seine beiden Hälften durch entgegengesetzte Kräfte von Licht und Schatten voneinander getrennt wurden.
+Legenden berichten, dass das Schwert zerbrach, als der schützende Mythal der Stadt verschwand, und die beiden Hälften durch entgegengesetzte Kräfte von Licht und Dunkelheit voneinander getrennt wurden.
 
-Neu geschmiedet, verändert die Klinge ihre Natur mit dem Lauf des Himmels. Bei Tageslicht brennt sie mit stiller Entschlossenheit, scharf und kraftvoll. Unter Mond und Sternen mildert sie ihr Leuchten und schützt ihren Träger.
+Die Klinge verändert ihre Natur mit dem Lauf des Himmels. Bei Tageslicht brennt sie mit stiller Entschlossenheit. Unter Mond und Sternen mildert sie ihr Leuchten und schützt ihren Träger.
 
 EIGENSCHAFTEN:
 
@@ -1156,7 +1140,7 @@ wir sind wie jede Nacht nach Einbruch der Dunkelheit hinter dem Tempel des Helm 
 
 @1238 = ~Alte Münze~
 
-@1239 = ~Diese abgenutzte Münze trägt das schwache Bild eines älteren Mannes mit ernstem Ausdruck. Die Details sind längst verblasst — die Nase von unzähligen Händen geglättet, die Ränder im Laufe der Zeit abgestumpft. Es gibt keine Prägung, die auf Münzstätte oder Wert hinweist, und doch wirkt sie schwerer, als sie sein sollte, als trüge sie die Erinnerung an all die Jahre, die sie durch Hände gewandert ist. Wer sie einst geprägt hat, ist längst vergessen, ebenso wie der Zweck, den sie einst erfüllte.~
+@1239 = ~Diese abgenutzte Münze trägt das schwache Bild eines älteren Mannes mit ernstem Ausdruck. Wer sie einst geprägt hat, ist längst vergessen, ebenso wie der Zweck, den sie einst erfüllte.~
 
 @1240 = ~Fläschchen mit Feenstaub~
 
@@ -1166,9 +1150,9 @@ Die Magie des Staubs hält an, bis sie gebannt, freiwillig beendet oder durch ei
 
 @1242 = ~Heilpfeil~
 
-@1243 = ~Diese Pfeile sind eine Kreation der Anhänger Eldaths. Der Schaft trägt ein kleines Fläschchen mit geweihtem Wasser einer heiligen Quelle. Wenn der Pfeil sein Ziel trifft, zerbricht das Fläschchen und setzt einen sanften Schwall frei, der in das verwundete Fleisch des Getroffenen einwirkt.
+@1243 = ~Diese Pfeile sind eine Kreation der Anhänger Eldaths. Der Schaft trägt ein kleines Fläschchen mit geweihtem Wasser einer heiligen Quelle. Wenn der Pfeil sein Ziel trifft, zerbricht das Fläschchen und setzt einen sanften Schwall frei, der in das verwundete Fleisch des Getroffenen eindringt.
 
-Obwohl die Pfeile zur Heilung bestimmt sind, kann selbst ein sanfter Treffer Prellungen oder kleine Wunden verursachen, wenn er aus einem starken Bogen abgeschossen wird — ein geringer Preis für die Heilung, die sie spenden.
+Obwohl die Pfeile zur Heilung bestimmt sind, kann selbst ein sanfter Treffer Prellungen oder kleine Wunden verursachen, wenn er aus einem starken Bogen abgeschossen wird.
 
 EIGENSCHAFTEN:
 
@@ -1236,7 +1220,7 @@ Gewicht: 1~
 
 @1252 = ~Dunkles Amulett des Mythrien~
 
-@1253 = ~Dieses Amulett wurde in finsteren Drow-Riten aus den zerbrochenen Fragmenten eines alten oberirdischen Elfenamuletts geschaffen – höchstwahrscheinlich einst ein heiliges Medaillon, das Mythrien Sarath geweiht war. Die Reinheit, die es einst besaß, ist längst entweiht. Welche Materialien die Drow auch bei seiner Herstellung verwendet haben mögen … der Vorgang war zweifellos grausam und sehr, sehr blutig.
+@1253 = ~Dieses Amulett wurde in finsteren Drow-Riten aus den zerbrochenen Fragmenten eines alten Waldelfenamuletts geschaffen – höchstwahrscheinlich einst ein heiliges Medaillon, das Mythrien Sarath geweiht war. Die Reinheit, die es einst besaß, ist längst entweiht. Welche Materialien die Drow auch bei seiner Herstellung verwendet haben mögen, der Vorgang war zweifellos grausam und sehr, sehr blutig.
 
 EIGENSCHAFTEN: 
 – Immunität gegen Effekte unbändiger Magie und gegen Zonen toter Magie in Myth Unnohyr
@@ -1245,9 +1229,9 @@ Gewicht: 0~
 
 @1254 = ~Spinnenseidenstiefel~
 
-@1255 = ~Diese geschmeidigen Stiefel wurden aus Spinnenhaut gefertigt und mit Strängen geweihter Seide verstärkt. Getragen von Oberflächenspähern Vhaerauns, ermöglichen sie lautlose und schnelle Bewegung durch Netze, Wurzeln und magische Fesseln gleichermaßen.
+@1255 = ~Diese geschmeidigen Stiefel wurden aus Spinnenhaut gefertigt und mit Strängen gewebter Seide verstärkt. Getragen von Oberflächenspähern Vhaerauns, ermöglichen sie lautlose und schnelle Bewegung durch Netze, Wurzeln und magische Fesseln gleichermaßen.
 
-Eine feine Verzauberung – gewoben im Trotz gegen Lolths Getreue wie auch gegen die Kinder der Seldarine – verleiht dem Träger einen leichten defensiven Vorteil im Kampf gegen elfische Gegner.
+Eine feine Verzauberung verleiht dem Träger einen defensiven Vorteil im Kampf gegen alle elfische Gegner.
 
 EIGENSCHAFTEN:
 
@@ -1261,11 +1245,11 @@ Gewicht: 4~
 @1256 = ~Bannmarke von Shoonach~
 @1257 = ~Eine schlichte Kupfermünze aus der versunkenen Hauptstadt Shoonach. Sie zeigt das idealisierte Antlitz eines namenlosen Menschen — glatt, ausdruckslos und austauschbar.
 
-Im alten, von Magie durchdrungenen Shoon-Imperium dienten solche Bannmarken dazu, arkane Manipulationen zu säubern. Die meisten Münzen verloren ihre Kraft vor Jahrhunderten. Diese hier bewahrt offenbar noch den letzten Rest uralter Bannmagie.
+Im alten, von Magie durchdrungenen Shoon-Imperium dienten solche Bannmarken dazu, arkane Manipulationen zu säubern. Die meisten Münzen verloren ihre Kraft vor Jahrhunderten. Diese hier bewahrt offenbar noch den letzten Rest uralter Magie.
 
 EIGENSCHAFTEN: 
 
-Die Bannmarke kann einmalig durch ein Befehlswort aktiviert werden, um einen mächtigen Magie bannen-Effekt im Radius von 4,5 m auszulösen und wird bei der Anwendung zerstört.
+Die Münze kann einmalig durch ein Befehlswort aktiviert werden, um einen mächtigen Magie bannen-Effekt im Radius von 4,5 m auszulösen, wird jedoch bei der Anwendung zerstört.
 
 Gewicht: 0~
 

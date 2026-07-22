@@ -1,8 +1,8 @@
 
 BACKUP ~Poisoned_pathways/backup~
 AUTHOR ~Acifer~
-README ~Poisoned_pathways/documentation/Poisoned_Pathways_Readme.pdf~ 
-VERSION ~v1.2~
+README ~Poisoned_pathways/documentation/Poisoned_Pathways_Readme.pdf~
+VERSION ~v1.3~
 
 ALWAYS
 
@@ -51,6 +51,11 @@ LANGUAGE ~Spanish by ElGamerViejuno~
          ~spanish~
          ~Poisoned_pathways/language/spanish/Setup-Poisoned_pathways.tra~
          ~Poisoned_pathways/language/spanish/Poisoned_pathways_Journal.tra~
+         
+LANGUAGE ~Chinese by Abdel-613~
+         ~schinese~
+         ~Poisoned_pathways/language/schinese/Setup-Poisoned_pathways.tra~
+         ~Poisoned_pathways/language/schinese/Poisoned_pathways_Journal.tra~
 
 BEGIN ~Poisoned pathways~
 
