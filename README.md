@@ -51,6 +51,8 @@ This mod is available in:
 ## Compatibility  
 Poisoned Pathways is compatible with *BG2EE* and *EET*. It does not alter core game content and should be compatible with most other mods.
 
+If you are using the BP-BGT Worldmap mod, version 14 or higher is required for this mod.
+
 This mod is fully compatible with Morpheus' Tactics Remix. When both mods are installed, Morpheus has adjusted several encounters to better match the increased difficulty and gameplay balance of Tactics Remix. You need to install Tactics Remix after this mod.
 
 
