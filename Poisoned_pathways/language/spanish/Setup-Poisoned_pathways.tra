@@ -1246,6 +1246,10 @@ Al usar este hechizo, la criatura elegida gana inmunidad a venenos y ponzoñas a
 
 @2075 = ~Aunque el agua está turbia, veis un túnel bajo la superficie. Si lo deseáis, podéis sumergiros y explorarlo.~
 
+@2080 = ~Casa del árbol~
+@2081 = ~Casa vieja~
+@2082 = ~Claro~
+
 // the two fairies
 @2100 = ~Si tenéis que brillar, ¡hacedlo allí!~
 @2101 = ~¡Pero allí es aburrido!~

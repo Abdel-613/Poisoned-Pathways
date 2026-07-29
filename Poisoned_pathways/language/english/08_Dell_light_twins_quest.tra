@@ -1,7 +1,7 @@
 //NOTE TO TRANSLATORS: KEEP THE FORMATTING - it's for the correct colors
  
 @4850 = ~^0xFFE3B0FF Lilafern: ^-<CHARNAME>! The world feels wide again — the air, the light, even the sound of your footsteps!~
-@4851 = ~^0xFF9ADCE3 Tippledew: ^-If we could bottle freedom, it would sound just like that — and sparkle twice as bright!~
+@4851 = ~^0xFF9ADCE3 Tippledew: ^-If freedom could be bottled, I'd drink every last drop!~
 @4852 = ~^0xFFE3B0FF Lilafern: ^-No more bottles, Tippledew — ever. I’d rather sleep in a dragon’s mouth than in another jar!~
 @4853 = ~^0xFF9ADCE3 Tippledew: ^-Have you come to make a wish, or to solve some riddles?~
 @4854 = ~A wish, perhaps… can you really grant one?~
@@ -17,9 +17,9 @@
 @4864 = ~^0xFFE3B0FF Lilafern: ^-And all that adventuring makes one terribly sleepy!~
 @4865 = ~^0xFF9ADCE3 Tippledew: ^-Yes, Lilafern. Let’s rest — but not before we thank our rescuer properly.~
 @4866 = ~^0xFFE3B0FF Lilafern: ^-A hundred blessings and a hundred sparkles upon you, <CHARNAME>! We’d have kissed your feet if they weren’t so terribly smelly.~
-@4867 = ~^0xFF9ADCE3 Tippledew: ^-Thank you, <CHARNAME> — truly. You’ve given us back the light, the laughter, and the lovely little chaos we missed. We’ll never forget how you made the world noisy again.~
+@4867 = ~^0xFF9ADCE3 Tippledew: ^-Thank you, <CHARNAME>! You’ve given us back the light, the laughter, and the lovely little chaos we missed. We shall never forget how you made our world lively again.~
 @4868 = ~^0xFFE3B0FF Lilafern: ^-Wait! We can’t just let <PRO_HIMHER> go without a wish! That would be... ungrateful, or possibly unlucky — or both!~
-@4869 = ~^0xFF9ADCE3 Tippledew: ^-Exactly right, Lilafern! A small gift, a little sparkle to keep the dark away. What will you have, <CHARNAME>?~
+@4869 = ~^0xFF9ADCE3 Tippledew: ^-Exactly right, Lilafern! A small gift and a little sparkle to keep bad things away. What will you have, <CHARNAME>?~
 @4870 = ~^0xFFE3B0FF Lilafern: ^-So! One wish, <CHARNAME>. Only one — we’re not genies, you know? You can pick your sparkle: Resistance to poisons, shields against spells, a shimmer of luck against hostile wands, a charm against awkward transformations, or maybe... a little fortitude against very bad dragon breath? Choose wisely, <CHARNAME> — even tiny wishes have echoes.~
 @4871 = ~I’d rather be safe from poison and disease.~
 @4872 = ~Perhaps something to resist spells.~
@@ -27,7 +27,7 @@
 @4874 = ~I could use a safeguard against being turned into something unnatural.~
 @4875 = ~Maybe something to help me get through danger — like dragon’s breath.~
 @4876 = ~^0xFFE3B0FF Lilafern: ^-A wise choice! Hold still — this won’t sparkle much... or maybe it will.~
-@4877 = ~^0xFF9ADCE3 Tippledew: ^-There! A touch of moonlight, a pinch of laughter, and a dusting of please-don’t-die.~
+@4877 = ~^0xFF9ADCE3 Tippledew: ^-There! A dash of moonlight, a pinch of laughter and a sprinkle of please-don’t-die.~
 @4878 = ~^0xFFE3B0FF Lilafern: ^-Look, Tippledew! A clumsy hooman!~
 @4879 = ~^0xFF9ADCE3 Tippledew: ^-Oh hush, Lilafern! It's an adventurer, silly! You can always tell by <PRO_HISHER> fierce look.~
 @4880 = ~^0xFF9ADCE3 Tippledew: ^-Welcome to Duskwood Dell, tall one!~
@@ -41,7 +41,7 @@
 @4888 = ~^0xFFE3B0FF Lilafern: ^-For those who delight the Dell not only in daylight, of course.~
 @4889 = ~^0xFFE3B0FF Lilafern: ^-We’re faeries, silly! Too small for your eyes, too quick for your hands.~
 @4890 = ~^0xFF9ADCE3 Tippledew: ^-Duskwood Dell is our home! Someone has to keep this peace-loving crowd from dozing off.~
-@4891 = ~^0xFF9ADCE3 Lilafern: ^-It’s called Duskwood Dell, after all — not Deskwood Dull!~
+@4891 = ~^0xFFE3B0FF Lilafern: ^-It’s called Duskwood Dell, after all — not Deskwood Dull!~
 @4892 = ~^0xFF9ADCE3 Tippledew: ^-Anyway. Have you come to make a wish, or to solve some riddles?~
 @4893 = ~^0xFFE3B0FF Lilafern: ^-A riddle! A game! Let’s test the tall one’s brain!~
 @4894 = ~^0xFF9ADCE3 Tippledew: ^-Oh yes! Riddles are like sparkles – they reveal who’s dull!~

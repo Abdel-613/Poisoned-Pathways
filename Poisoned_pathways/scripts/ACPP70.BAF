@@ -33,6 +33,13 @@ RESPONSE #100
     SetRestEncounterProbabilityDay(0)
     SetRestEncounterProbabilityNight(0)
 	SetGlobal("Prep","ACPP70",1)
+    AddMapNote([890.2052],@2080) // tree left
+    AddMapNote([1757.2504],@2080) // tree right
+    AddMapNote([630.522],@2081) // small house left
+    AddMapNote([3316.247],@2081) // small house right
+    AddMapNote([175.1353],@2082) // glade west
+    AddMapNote([1938.132],@2082) // glade north
+    AddMapNote([559.2959],48376) // exit
 	Continue()
 END
 

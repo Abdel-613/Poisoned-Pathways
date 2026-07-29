@@ -1409,6 +1409,10 @@ Durch die Anwendung dieses Zaubers wird die gewählte Kreatur immun gegen Gifte,
 
 @2075 = ~Obwohl das Wasser trüb ist, bemerkt ihr einen Tunnel unter der Wasseroberfläche. Wenn ihr wollt, könntet ihr hinuntertauchen und ihn erkunden.~
 
+@2080 = ~Baumturm~
+@2081 = ~Alte Kammer~
+@2082 = ~Lichtung~
+
 // the two fairies
 
 @2100 = ~Wenn ihr unbedingt funkeln müsst, dann tut es dort drüben!~

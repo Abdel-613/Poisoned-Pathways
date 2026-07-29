@@ -1,3 +1,13 @@
+V 1.4
+- reviewed English translation to make the writing sound more natural
+- updated Chinese translation
+- fixed a rare issue in the original game: when Habib is killed in the temple of Ilmater in the Slums, you couldn't talk to the priest of Ilmater anymore
+- removed the djinni bottle from the maiden of the grotto
+- The runaway nephew now appears earlier in the quest
+- fixed the description of the Shadow's Blade in 04_Dialogues_Duskwood_Dell_grotto: @4554 = ~I leave the Shadow's Blade for still water’s healing.~
+- added mapnotes for ACPP70.are to make navigation easier
+
+
 V 1.3
 - Added Chinese Translation - thank you Abdel-613!
 - Revised the German translation in preparation for the upcoming English update

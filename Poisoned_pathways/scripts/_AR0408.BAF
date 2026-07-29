@@ -14,3 +14,12 @@ THEN
         SetGlobal("AC#PP_Eldath","AR0408",1)
         CreateCreature("AC#PPEL1",[338.332],S)  // Merethan
 END
+
+IF
+    Dead("Habib")
+    GlobalGT("SpawnHabib","GLOBAL",4)
+    GlobalLT("SpawnHabib","GLOBAL",8)
+THEN
+    RESPONSE #100
+        SetGlobal("SpawnHabib","GLOBAL",8)
+END

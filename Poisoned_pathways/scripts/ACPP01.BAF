@@ -99,12 +99,12 @@ END
 */
 
 IF
-GlobalGT("AC#PP_MythUnnohyr","GLOBAL",5)
-Global("AC#PP_SummonFlowerKid","ACPP01",0)
+    GlobalGT("AC#PP_MythUnnohyr","GLOBAL",3)
+    Global("AC#PP_SummonFlowerKid","ACPP01",0)
 THEN
-RESPONSE #100
-CreateCreature("AC#PPCHA",[365.800],12)
-SetGlobal("AC#PP_SummonFlowerKid","ACPP01",1)
+    RESPONSE #100
+        CreateCreature("AC#PPCHA",[365.800],E)  // Larrin
+        SetGlobal("AC#PP_SummonFlowerKid","ACPP01",1)
 END
 
 /*

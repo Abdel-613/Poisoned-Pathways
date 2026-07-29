@@ -8,7 +8,6 @@ CHAIN IF ~True()~ THEN AC#PPEL3 hello_01
 = @3401 
 END
 IF~~THEN REPLY @3402 EXTERN AC#PPEL3 need_go_to_highpriest
-//IF~~THEN REPLY ~Long story short: One of your people has died, and he sent us here before his end.~ EXTERN AC#PPEL3 need_go_to_highpriest
 IF~~THEN REPLY @3403 EXTERN AC#PPEL3 need_go_to_highpriest
 IF~~THEN REPLY @3404 EXTERN AC#PPEL3 need_go_to_highpriest2
 IF~~THEN REPLY @3405 EXTERN AC#PPEL3 seek_highpriest_wrong_name
