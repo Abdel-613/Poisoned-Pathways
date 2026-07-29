@@ -216,7 +216,7 @@ Myth Unnohyr rose in the shadowed valleys of Keltormir’s southern forests. Its
 Myth Tellaren
 Far to the south, in lands now buried under the sands of the desert, stood Myth Tellaren. When the genie-lords of Calim and Memnon warred across the south, their chaos reached the hidden places of the elves. Myth Tellaren’s mythal, strained by the genies' pressure, fractured. And with it, the delicate magic that held the city aloft. Some believe the ruins still lie beneath the wandering dunes, forever frozen in the instant of magical collapse, like embers beneath ash.
 
-Though Keltormir has faded into myth, the echoes of its greatness endure. Wherever ancient trees still stand or magic sings, the empire of the elves once flourished. And mayhap, one day, it shall rise again.~
+Though Keltormir has faded into myth, the echoes of its greatness endure. Wherever ancient trees stand and magic sings, the empire of the elves once flourished. And mayhap, one day, it shall rise again.~
 @1010 = ~Fragment of an Amulet~
 @1011 = ~This is a fragment of a pendant, depicting three intertwined golden rings—a sacred symbol once revered by an ancient elven guardian of magic and unity. Though incomplete, the fragment still resonates faintly with the corrupted mythal of Myth Unnohyr. When held, you feel the oppressive forces around you soften slightly. Yet without the full amulet, its protective strength remains useless.~
 @1012 = ~Head of an Elf~
@@ -553,7 +553,7 @@ May you fare better than I.~
 
 As penned by Lirael of the Gentle Banks, Keeper of the Silent Pool
 
-I was still young when I first wandered into the Cloak Wood. The elders warned me beforehand: "Not all who walk within this forest's shadow honour life."
+I was still young when I first wandered into the Cloak Wood. The elders warned me beforehand: "Not all who walk within this forest honour life."
 
 Yet my heart knew no fear: I wished to carry Eldath's faith wherever my footsteps might lead.
 
@@ -568,11 +568,11 @@ Drawn from a spring so pure and bright.
 No scream shall ever bring release,
 let silence sow the seeds of peace."
 
-Brughul spun toward me, his yellow eyes burning with murderous rage. The brute strode forward and I closed my eyes. I heard his breath as he raised his club, and I expected to be struck down with a single blow.
+Brughul spun toward me, his yellow eyes burning with murderous rage. The brute strode forward as I closed my eyes. I heard his breath as he raised his club, and I expected to be struck down with a single blow.
 
-Instead I heard the club fall into the moss before me. Then all fell silent. Only the gentle splashing of the calf as it stumbled into the shallow water and disappeared. When I opened my eyes, I was alone.
+Instead, I heard the club fall into the moss, followed by the gentle splashing of the calf as it stumbled into the shallow water and disappeared. Then all fell silent. When I opened my eyes, I was alone.
 
-They say that today a ring of white lilies blooms upon that spot, where nothing had ever flowered before.
+Today, a ring of white lilies grows upon that spot.
 
 (Although this item may hold cultural value, it appears neither magical nor useful in advancing your mission.)~
 @1149 = ~Peacewalker's stories II~
@@ -820,7 +820,7 @@ Requires:
 
 Weight: 3~
 @1193 = ~Arrows of Charming~
-@1194 = ~These finely crafted arrows are unlike any of mundane make. Their tips are delicately shaped into hearts of polished coral. When loosed, they seek to sway the will of the target, drawing them toward the archer’s cause.
+@1194 = ~These finely crafted arrows are unlike any of mundane make. Their tips are delicately shaped into hearts of polished coral. When loosed, they seek to sway the will of their targets, drawing them toward the archer’s cause.
 
 STATISTICS:
 
@@ -867,8 +867,8 @@ Requires:
 
 Weight: 1~
 @1199 = ~Gauntlets of the Treant~
-@1200 = ~These massive gauntlets are formed of bark and living root. Druids tell that they were crafted in reverence to the treants of the Forest of Tethir.
-When the wearer’s flesh is hardened with Barkskin, the gauntlets channel that living armor into raw strength, allowing the bearer to strike with the might of a towering oak.
+@1200 = ~These massive gauntlets are fashioned from bark and root and were crafted in reverence for the treants of the Forest of Tethir.
+When the wearer is protected by Barkskin, the gloves draw strength from the bark, allowing the wearer to strike with the force of a mighty oak.
 
 STATISTICS:
 
@@ -931,8 +931,7 @@ Spawn of the lifeless Weave, these wan globes feed on life force. They linger wh
 @1212 = ~Essence of the Will-o’Wild~
 @1213 = ~This shimmering fragment pulses with chaotic hues, shifting from emerald to amber in an instant. It carries within it the untamed spark of wild magic. Some claim that such essence, properly bound, might shield its bearer from the turbulence of unstable Weave-fields.~ 
 @1214 = ~Manual of Peaceful Living~
-@1215 = ~Manual of Peaceful Living
-This contemplative tome  offers guidance on living a life of serenity and restraint. As with all such rare works, the book vanishes after a single use.
+@1215 = ~This contemplative tome  offers guidance on living a life of serenity and restraint. As with all such rare works, the book vanishes after a single use.
 
 STATISTICS:
 
