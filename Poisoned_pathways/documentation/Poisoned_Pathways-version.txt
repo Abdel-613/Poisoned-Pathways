@@ -6,6 +6,7 @@ V 1.4
 - The runaway nephew now appears earlier in the quest
 - fixed the description of the Shadow's Blade in 04_Dialogues_Duskwood_Dell_grotto: @4554 = ~I leave the Shadow's Blade for still water’s healing.~
 - added mapnotes for ACPP70.are to make navigation easier
+- Wadal Hrun has a higher level and can't be killed by the death spell anymore
 
 
 V 1.3
