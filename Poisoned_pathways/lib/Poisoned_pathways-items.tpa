@@ -1,6 +1,15 @@
 // Item Files
 
 COPY ~%MOD_FOLDER%/itm/copy~         ~override~
+COPY_EXISTING ~STAF14.itm~ ~override~
+    LPF ADD_ITEM_EQEFFECT
+    INT_VAR
+      opcode      = 328   // set spell state
+      target      = 2    // preset target
+      timing      = 2     // While equipped
+      parameter2  = 24
+      special     = 1
+    END
 
 COPY ~%MOD_FOLDER%/itm/AC#SCRL2.itm~         ~override~  // scroll of protection from poison
   SAY NAME1 @1258
