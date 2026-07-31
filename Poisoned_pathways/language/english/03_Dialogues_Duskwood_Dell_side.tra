@@ -57,8 +57,8 @@
 @3756 = ~May your path be gentle and your spirit undisturbed.~
 @3757 = ~A word, <CHARNAME>. You spoke not long ago with the two little faeries who call themselves the Dell-Light Twins.~
 @3758 = ~You mean those two little nuisances that keep laughing and glowing all the time?~
-@3759 = ~Ah, yes — the cheerful pair who light up the Dell at night. What about them?~
-@3760 = ~The Dell-Light Twins? They seemed harmless enough — a bit talkative, perhaps.~
+@3759 = ~Ah, yes, the cheerful pair who light up the Dell at night. What about them?~
+@3760 = ~The Dell-Light Twins? They seemed harmless enough. A bit talkative, perhaps.~
 @3761 = ~Those two faeries were delightful! Please don’t tell me something’s happened to them.~
 @3762 = ~They may be somewhat troublesome at times, but they have long been part of life here in Duskwood Dell. I fear something has happened to them, for they have vanished without a trace.~
 @3763 = ~I fear they’ve come to harm... or worse. They may have been taken.~
@@ -66,7 +66,7 @@
 @3765 = ~I don’t have time for this. Ask someone else to look for them.~
 @3766 = ~Taken, yes. They left the Dell at dusk, saying they wished to have an adventure. I sent an owl to keep watch, just in case.~
 @3767 = ~The bird followed them along the Eshpurta Road leading toward Athkatla. It saw them speaking with a merchant, and then... they simply vanished. The merchant continued west, alone.~
-@3768 = ~My owl lost sight of him, distracted by a family of mice on the roadside — she’s easily tempted. But tell me, <CHARNAME>, what kind of merchant travels that road at night, without guards? And why have the twins not returned or sent a sign since?~
+@3768 = ~My owl lost sight of him, distracted by a mouse on the roadside — she’s easily tempted. But tell me, <CHARNAME>, what kind of merchant travels that road at night, without guards? And why have the twins not returned or sent a sign since?~
 @3769 = ~Perhaps they turned invisible out of fear and are hiding somewhere?~
 @3770 = ~If this is another one of their pranks, I’m not falling for it.~
 @3771 = ~I’ll look for them.~
@@ -116,7 +116,7 @@
 @3815 = ~Try shaking it. Maybe that helps.~
 @3816 = ~Shall I smash it with a hammer?~
 @3817 = ~Let them stay in there. The quiet suits them.~
-@3818 = ~The jar is sealed outside Duskwood Dell — but here, in this place of peace, nothing living can remain imprisoned.  Watch closely... the seal yields as easily as water parts for light.~
+@3818 = ~The jar is sealed outside Duskwood Dell — but here, in this place of peace, nothing living can remain imprisoned.  Watch closely... the seal yields easily.~
 @3819 = ~Please, keep searching. I fear for them with every passing day.~
 @3820 = ~Earthworms? You’d have to dig up the whole sacred ground to find one. No, I’m afraid I can’t help you there.~
 @3821 = ~That would be all. Farewell.~
@@ -431,7 +431,7 @@
 @4130 = ~Well, she's not THAT bad. I mean... she can be nice sometimes.~
 @4131 = ~Thank you for doing this. It means more than I can say. Now that she knows I’m safe, I can truly begin to focus on what matters to me.~
 @4132 = ~Whatever that is, exactly. Still figuring that out. But thanks. Really. You’re alright.~
-@4133 = ~Peace be with you! You carry the scent of earth and danger—have you been in dungeons or some other dark place? I do not know whether I am made for such places...~
+@4133 = ~Peace be with you! Have you been in dungeons or some other dark places? I do not know whether I am made for such things...~
 @4134 = ~What is this rabble now? I have neither time nor patience for unsolicited interruptions. Be gone, unless you bear something of true importance.~
 @4135 = ~Actually, I believe I do. I spoke to your nephew. He left because he wishes to discover life on his own terms. But he wanted you to know he’s well—and he asked me to give you this flower.~
 @4136 = ~Right. I'll be leaving then.~

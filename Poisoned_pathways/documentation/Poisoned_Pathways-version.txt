@@ -8,6 +8,7 @@ V 1.4
 - added mapnotes for ACPP70.are to make navigation easier
 - Wadal Hrun has a higher level and can't be killed by the death spell anymore
 - Staff of the Woodlands now triggers the strength Bonus of the Gauntlets of the Treant
+- Mirage’s Edge now has a better fitting color
 
 
 V 1.3
