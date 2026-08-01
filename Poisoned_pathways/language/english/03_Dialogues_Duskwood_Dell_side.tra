@@ -32,10 +32,10 @@
 @3731 = ~But what happened to her? Did she fly away?~
 @3732 = ~She sang one final note so sweet, the wind carried it around the world. Some say it's still echoing somewhere...~
 @3733 = ~And so the mouse climbed onto the old cloud giant's shoulder to whisper a poem into his sorrowful ear.~
-@3734 = ~That’s not bravery. That’s foolishness with tiny paws.~
+@3734 = ~No way! That's just plain foolish.~
 @3735 = ~What use is a poem against a creature taller than ten trees?~
-@3736 = ~Even the tiniest paw can stand its ground with a sharp wit.~
-@3737 = ~I once gnawed through a harp string and made it snap. Does that count?~
+@3736 = ~Even the tiniest paw can stand its ground against a larger foe with a strong will.~
+@3737 = ~I once gnawed through a harp string and made it snap. It scared the big folk away.~
 @3738 = ~If the giant had stepped on it, there’d be no tale to tell. Just pulp.~
 @3739 = ~But the giant stayed where he was and listened.~
 @3740 = ~Welcome, traveler. Few arrive in Duskwood Dell by chance. What brings you beneath these boughs?~
@@ -103,7 +103,7 @@
 @3802 = ~Forgive me, I’m just bad with so many silly—uh, I mean syllables. Bye.~
 @3803 = ~It's Most Exalted Fallskeeper Alatoasz Berendim! Say it with me: Ber-en-dim! If you can’t manage that, at least keep your lips sealed while you head northeast toward his chambers.~
 @3804 = ~Don’t worry, We’ll just call him Fallsy from now on.~
-@3805 = ~Hah. It takes wit, not war, to make a priest of peace lose his composure. (Naturally, I excel at both.)~
+@3805 = ~Hah. It seems wit accomplishes what violence could not. (Naturally, I excel at both.)~
 @3806 = ~I meant no offense. Bye.~
 @3807 = ~That’s enough. You’d do well to use the stillness of this grove to reflect on your behavior!~
 @3808 = ~Do that. He’ll be glad to meet you.~
@@ -328,7 +328,7 @@
 @4027 = ~Only a hundred? That is… disappointing. Samuel must think Eldath’s peace worth less than a common ale. Still, what is done is done. I shall make do, though my heart is heavy.~
 @4028 = ~Ahh, five hundred gold! That is a fair reward for a year's labour. Eldath's gardens shall bloom more brightly! Here, take one hundred coins for your efforts. Good work deserves its reward.~
 @4029 = ~Seven hundred and fifty! Ha! More than fair, more than I dared hope! Truly, Eldath smiles upon us today. Take these two hundred and fifty gold pieces for yourself. May your name be remembered as sweetly as honey upon the tongue.~
-@4030 = ~A thousand gold? That is beyond generous—nay, it is wondrous! Samuel must have recognised not only the value of the mead, but the value of peace itself. Take these five hundred coins, along with this gift: A cloak woven to protect against stings, great or small.~
+@4030 = ~A thousand gold? That is beyond generous—nay, it is wondrous! Samuel must have truly recognised the value of the mead. Take these five hundred coins, along with this gift: A cloak woven to protect against stings, great or small.~
 @4031 = ~Now that I stand before you in my own skin again... what service might a humble monk of Eldath offer you?~
 @4032 = ~I shall not keep you from your honey. Goodbye.~
 @4033 = ~What am I doing? Why, I tend the bees, of course! Together, we weave harmony into honeycomb and turn blossoms into liquid gold.~
@@ -358,7 +358,7 @@
 @4057 = ~I ask seven hundred and fifty gold pieces.~
 @4058 = ~I ask one thousand gold pieces.~
 @4059 = ~What a bargain! The priests of Eldath seem not to know the true worth of their drink. Here, take your hundred gold pieces.~
-@4060 = ~Very well! Here, five hundred gold. A fair sum for a fair cask—tell your monk it shall bring peace to both tavern and temple.~
+@4060 = ~Very well! Here, five hundred gold. A fair price. Tell your monk it shall bring peace to both my tavern and his temple.~
 @4061 = ~Agreed! Seven hundred and fifty gold! The nectar is fine, the cause is finer still. May Eldath smile on my generosity—and on my patrons’ thirst!~
 @4062 = ~A king's ransom! Yet such sweetness cannot be measured in coin. Very well! Take a thousand gold. Let it be said that Samuel Thunderburp never skimps on a fine drink.~
 @4063 = ~Do give the Eldathyn my regards. I never thought they were capable of anything quite so... useful!~
@@ -386,7 +386,7 @@
 @4085 = ~Come back when the grain calls to you.~
 @4086 = ~Another day, another carving. Safe paths.~
 @4087 = ~Ah, friend! We thank you still. You saved our lives on the road.~
-@4088 = ~Now our axe only split pumpkin, not heads. Better work. Better life.~
+@4088 = ~Now our axe split pumpkins, no more heads. Better work. Better life.~
 @4089 = ~Oh! Idea. Here, we give you old axe. As thanks. Don't need it anymore. We now use simpler axe, one that is only good for pumpkins.~
 @4090 = ~Axe helped us find our way to Eldath. Maybe it will help you, too.~
 @4091 = ~Good to see you're doing well.~
@@ -414,7 +414,7 @@
 @4113 = ~Depends. What do you need?~
 @4114 = ~I have no time for helping boys that do not even shave themselves yet. Go play in the trees.~
 @4115 = ~You see, it was recently that I ran away from home. I... I just couldn't live the life I was expected to live! My parents passed when I was still young, and I was raised by my aunt—Pesca. She lives in the Government District of Athkatla. Her world is... marble and silk. She wanted me to become a refined, wealthy man. Privileged. Pampered.~
-@4116 = ~But none of it ever felt like mine. Not the clothes, not the manners, not the future. One day, I heard something—felt something. A stillness. A call. Eldath’s voice in the wind, maybe.~
+@4116 = ~But none of it ever felt like mine. The clothes, the manners, the future. One day, I heard something—felt something. A stillness. A call. Eldath’s voice in the wind, maybe.~
 @4117 = ~So I came here, to Duskwood Dell, to learn, to breathe, to find a path of my own. But... I left without a word. Just vanished. That wasn’t right.~
 @4118 = ~I can't return—she'd never let me go again. But maybe, if someone brought her this flower... told her I'm safe and where I am... maybe then, peace can grow between us again.~
 @4119 = ~She's living in Athkatla. She often walks through the gardens of the Government District. Will you take this flower to her, and pass on my message?~
@@ -519,8 +519,8 @@
 @4218 = ~I think I'll leave you be.~
 @4219 = ~Of course I am angry! When the songs of the world become screams, how could I not be? The Realms tremble with war and madness, as though Toril itself has succumbed to insanity.~
 @4220 = ~I came here after my kin clashed with pirates. I saw much death, blood, and suffering. Too much. Now the memory burns within me, and I cannot cast it aside.~
-@4221 = ~Sometimes I just want to draw another arrow and end it all—to force the world into peace, if need be.~
-@4222 = ~But I sought peace, not vengeance. So when Eldath’s voice reached me—gentle as waves upon a shore—I thought I could let the fury sink. But it clings to me still, like seaweed wrapped around my heart.~
+@4221 = ~Sometimes I just want to draw another arrow and end it all. To force the world into peace, if need be.~
+@4222 = ~But I turned away from vengeance. So when Eldath’s voice reached me—gentle as waves upon a shore—I thought I could let the fury sink. But it clings to me still, like seaweed wrapped around my heart.~
 @4223 = ~I'm really sorry to hear that.~
 @4224 = ~I didn’t know Eldath’s call reached voices like yours.~
 @4225 = ~I don’t think I care about this. I think I’ll just go.~
