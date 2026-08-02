@@ -22,7 +22,7 @@
 @3421 = ~Let me take a closer look at the arrow...~
 @3422 = ~A strange poison indeed.  Merethan surely told you what makes this toxin so dangerous?~
 @3423 = ~More or less.~
-@3424 = ~I prefered you reminded me why it scares you so much.~
+@3424 = ~I preferred you reminded me why it scares you so much.~
 @3425 = ~He said it couldn’t be cured.~
 @3426 = ~Neither magic nor antidote can purge this toxin from the body. Nothing can hold back its corruption.~
 @3427 = ~Yet there is hope. Despite these grim circumstances, it is a blessing that you brought me a sample of this substance.~
@@ -36,8 +36,8 @@
 @3435 = ~If tasting it brings us answers, then so be it.~
 @3436 = ~At your own peril.~
 @3437 = ~I know the risk, but we have no time. If this toxin spreads to even more dangerous hands, the cost will be far greater.~
-@3438 = ~Hmm... Its taste is like the nectar of some long-forgotten bloom... The scent lingers like overripe fruit in a sun-dappled grove, fragrant one moment, lost the next.~
-@3439 = ~There is a bitterness, like foxglove, but something older lingers within it... something raw and untamed. Numbness is spreading, slowly and deliberately, reaching towards my heart. Could it be...?~
+@3438 = ~Hmm... Sweet at first, like nectar, but the taste fades almost at once. The scent is sharp and overripe, though strangely difficult to place.~
+@3439 = ~There is a bitterness, like foxglove, but something older lingers within it... something raw and untamed. The numbness is spreading slowly... towards my heart. Could it be...?~
 @3440 = ~Of course! It must be the Groveglove—a rare elven plant! Highly toxic and revered by elves for millennia.~
 @3441 = ~Yet its poison is usually cured with ease by magic. Why does magic fail here? It makes no sense.~
 @3442 = ~Good thing that stuff didn’t kill you too.~
@@ -60,9 +60,9 @@
 @3459 = ~I just arrived here from Athkatla, and you're already sending me back?~
 @3460 = ~I don’t usually run errands for books... but fine.~
 @3461 = ~If you say it helps, I’ll fetch your book.~
-@3462 = ~What about Suldanesselar? Perhaps we should seek answers there?~
+@3462 = ~What about Suldanessellar? Perhaps we should seek answers there?~
 @3463 = ~I have already been to Myth Rhynn, searching for the ancient prophecies of Calim and Memnon. Perhaps that is where we should begin our search?~
-@3464 = ~Suldanesselar? I know the place. They have many troubles, but none that connect to ours.~
+@3464 = ~Suldanessellar? I know the place. They have many troubles, but none that connect to ours.~
 @3465 = ~Myth Rhynn, the elven city of the dead? No, I do not believe our answers lie there.~
 @3466 = ~There’s no way around it—you must seek the Temple of Oghma in Athkatla. They keep many tomes, including some that speak of the old elven cities. If I can find even a single clue, I may be able to narrow our search considerably.~
 @3467 = ~I just came from Athkatla, and now you’re sending me back?~
@@ -115,7 +115,7 @@
 @3514 = ~Easy to preach peace from the safety of a grove, while I wade through blood in your name.~
 @3515 = ~Magic or no magic, death still listens when I speak.~
 @3516 = ~I am no warrior. Only a voice trying to preach mercy. But do not mistake peace for blindness. I know well what I ask of you, and I do not ask it lightly. Yet even the foulest deed may plant a seed. May something better grow from it.~
-@3517 = ~The poisonous plant must grow there—twisted by wild magic and infused with death magic. Its venom carries that same warped magic into the body of its victims.~
+@3517 = ~The poisonous plant must grow there—twisted by wild magic and infused with dead magic. Its venom carries that same warped magic into the body of its victims.~
 @3518 = ~That’s an interesting theory.~
 @3519 = ~Alright. To cure the victims, we’d have to cure the magic itself—or what’s left of it.~
 @3520 = ~Then we’ve half-solved the problem already.~
@@ -139,9 +139,9 @@
 @3538 = ~Then let’s not waste time.~
 @3539 = ~The path is clear. Faith and steel shall see us through.~
 @3540 = ~Fine. But I expect at least one uneventful day after this.~
-@3541 = ~Seeking answer’s the easy part. What comes after tends to get messy.~
+@3541 = ~Finding answers is the easy part. What comes after tends to get messy.~
 @3542 = ~One question, though... are any fights allowed under Eldath’s rules? Or is all violence forbidden?~
-@3543 = ~Some things have strayed too far from nature's balance, there are afflictions no prayer can cleanse, only removal will suffice.~
+@3543 = ~Some things have strayed too far from nature's balance. There are corruptions no prayer can cleanse; only their removal brings release.~
 @3544 = ~Undead, for example. They are a distortion of the natural cycle.~
 @3545 = ~Some other beings are twisted by foul magic—poisoned roots, cursed beasts, unholy revenants.~
 @3546 = ~Protecting life from such corruption does not betray peace. Yet violence must always be the final resort—never the first.~
@@ -157,7 +157,7 @@
 @3556 = ~Evil magic in the air? Boo says it feels like we should hit something until it’s peaceful again!~
 @3557 = ~The poisoner has made his mark. Now let nature guide our retribution.~
 @3558 = ~Such defilement is a blight upon the realms. It must be ended.~
-@3559 = ~May our steps disturb not the ruins, but leave a mark where balance must be restored.~
+@3559 = ~May our deeds not further disturb the ancient ruins, but leave purity where balance has been broken.~
 @3560 = ~Please, let’s be careful. I fear whatever broke the Mythal still lingers—and it doesn’t welcome visitors.~
 @3561 = ~One more thing: Should you come across the flower he twisted to his ends, bring it to me. I shall seek to cleanse it and create an antidote.~
 @3562 = ~Go now, and put an end to Talona's servant. May Eldath's blessings guide your steps.~
@@ -219,7 +219,7 @@
 @3618 = ~I remain certain that these priests must aid us—I have already sent letters, and they will be expecting you. Yet your blessing, too, may lend strength to our cause.~
 @3619 = ~While I do like you, there is this dark part in you. I am sorry, but we need something else than this. But I do appreciate your offer.~
 @3620 = ~Thank you. Yet remember, we shall need the blessings of all faiths I spoke of.~
-@3621 = ~Of course. I'll prepare something for you. Not gold, but something else. Something that will be of use during your journeys.~
+@3621 = ~Of course. I'll prepare something for you. Not gold, but something that will be useful upon your travels.~
 @3622 = ~In addition, you will need a jug of Eldath’s holy water from our grotto. Speak with Eldath's servant beside the water; she will give you a carafe of the holy water.~
 @3623 = ~When you have the water and the blessings of Lathander and Ilmater, return to me. Then I shall tell you what must be done next.~
 @3624 = ~I am counting on you, <CHARNAME>. We shall stop the spread of this vile poison. Return once you have gathered everything.~
@@ -235,7 +235,7 @@
 @3634 = ~Yes, I have. What's next?~
 @3635 = ~I'm still working on this.~
 @3636 = ~I see. Return to me when you're done with that part. Eldath bless you!~
-@3637 = ~We have the flower, the holy water of Eldath, and we have the blessings. And we know where the poison was prepared.~
+@3637 = ~We have the flower, the holy water of Eldath, and the blessings. And we know where the poison was prepared.~
 @3638 = ~You must return to Myth Unnohyr and place the blessed flower together with Eldath’s holy water within the Malagent’s cauldron. Be warned, however—this may provoke an unwelcome reaction, and you may need to defend yourself.~
 @3639 = ~Then let the vile concoction be given flesh, that we might smite it in righteous combat!~
 @3640 = ~This is either going to end in glorious salvation... or one really big kaboom.~
@@ -261,7 +261,7 @@
 @3660 = ~Exalted Fallskeeper... why do we never carry weapons, even when others do? Isn’t peace worth defending?~
 @3661 = ~If we must defend ourselves, we choose words over weapons.~
 @3662 = ~But what if someone brings violence to our grove? What if he doesn’t listen?~
-@3663 = ~We parry every blow with patience. No swordmaster would expect that. Let our foe grow weary of his attacks. Then he'll listen.~
+@3663 = ~We parry every blow with patience. Let our foe grow weary of his attacks, then he'll listen.~
 @3664 = ~I don’t think I understand yet... but I will try.~
 @3665 = ~Then you already walk in her footsteps. Eldath doesn't expect you to hurry. She only asks you to keep following her path. Go now, and let her words guide your steps.~
 @3666 = ~Thank you for your guidance, Exalted Fallskeeper. May I one day understand the full depth of Eldath's teachings.~
