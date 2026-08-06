@@ -1,5 +1,9 @@
+V 1.5
+- revised German Translation, by Shai Hulud - thank you!
+- updated Chinese Translation
+
 V 1.4
-- reviewed English translation to make the writing sound more natural
+- Revised the English translation to make some of the writing sound more natural.
 - updated Chinese translation
 - fixed a rare issue in the original game: when Habib is killed in the temple of Ilmater in the Slums, you couldn't talk to the priest of Ilmater anymore
 - removed the djinni bottle from the maiden of the grotto

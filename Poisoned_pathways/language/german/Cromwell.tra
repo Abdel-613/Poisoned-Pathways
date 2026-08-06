@@ -1,7 +1,8 @@
-@5200 = ~Was haben wir denn hier? Sieht ganz so aus, als passe es zu einem alten elfischen Rundschild, dem Laubläufer. Ein feiner Gegenstand. Gebt mir beide Teile, und ich mach Euch das Ding wieder ganz — so stark wie eh und je. Billig wird’s nicht: 7500 Goldstücke. Aber für Euer Gold bekommt Ihr ein wahrhaft robustes Spielzeug!~
+// game: Poisoned Pathways
+// date: 2026-08-04, 21:34
+// Caution: This file is in UTF-8 format because it uses several special characters of non-english languages
 
-@5201 = ~Klingt gut. Machen wir’s.~
-
+@5200 = ~Was haben wir denn hier? Ha! Von so einem Schmuckstück habe ich schon mal gehört Sieht ganz so aus, als passe es zu einem alten elfischen Rundschild, dem Laubläufer. Ein feiner Gegenstand. Gebt mir beide Teile, und ich mach Euch das Ding wieder ganz – so stark wie eh und je. Billig wirds nicht: 7.500 Goldstücke. Aber für Euer Gold bekommt Ihr ein wahrhaft robustes Spielzeug!~
+@5201 = ~Klingt gut. Machen wirs.~
 @5202 = ~Kein Interesse. Habe ich noch etwas anderes für Euch?~
-
-@5203 = ~Aye, ich schau’s mir noch einmal an, wenn Ihr darauf besteht.~
+@5203 = ~Aye, ich schaus mir noch einmal an, wenn Ihr darauf besteht.~

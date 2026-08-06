@@ -1,415 +1,212 @@
-@3000 = ~He da, Freunde! Ihr seid doch Freunde, oder? Ihr wolltet doch wissen, woher das übelste Gift stammt, nicht wahr? Nun – was für ein Zufall! Ich hab hier ’ne Karte. Zeigt den Ort, an dem ich gewöhnlich den Kerl treffe, der das gute Zeug braut. Aber hört zu – nur ein Rat von Freund zu Freund: Legt euch ja nicht mit ihm an! Wenn Ihr ihn einmal schief anseht, hustet Ihr Blut.~
+// game: Poisoned Pathways
+// date: 2026-08-04, 21:34
+// Caution: This file is in UTF-8 format because it uses several special characters of non-english languages
 
-@3001 = ~Wo ist meine Karte? Mir wird auf einmal ganz schwindlig. Ich glaub', ich geh' in die Taverne und gönn' mir was Starkes, um den Kopf freizukriegen.~
-
-@3002 = ~Wie dem auch sei... hier ist die Karte. Lebt wohl fürs Erste. Mir wird auf einmal ganz schwindlig. Ich glaub', ich geh' in die Taverne und gönn' mir was Starkes, um den Kopf wieder freizukriegen.~
-
-@3003 = ~Seht an, seht an, wen haben wir denn hier? Sucht Ihr etwas, das Probleme verschwinden lässt... still und leise? Ich hab' Tränke, Tinkturen und Tropfen mit tödlicher Wirkung – gegen gutes Gold für Kunden ohne schlechtes Gewissen.~
-
+@3000 = ~He da, Freunde! Ihr seid doch Freunde, oder? Ihr wolltet doch wissen, woher das übelste Gift stammt, nicht wahr? Nun, was für ein Zufall! Ich hab hier ’ne Karte. Zeigt den Ort, an dem ich gewöhnlich den Kerl treffe, der das gute Zeug braut. Aber hört zu – nur ein Rat von Freund zu Freund: Legt Euch ja nicht mit ihm an! Wenn Ihr ihn einmal schief anseht, hustet Ihr Blut.~
+@3001 = ~Wo ist meine Karte? Mir wird auf einmal ganz schwindlig. Ich glaub, ich geh in die Taverne und gönn mir was Starkes, um den Kopf freizukriegen.~
+@3002 = ~Wie dem auch sei, hier ist die Karte. Lebt wohl fürs Erste. Mir wird auf einmal ganz schwindlig. Ich glaub, ich geh in die Taverne und gönn mir was Starkes, um den Kopf wieder freizukriegen.~
+@3003 = ~Seht an, seht an, wen haben wir denn hier? Sucht Ihr etwas, das Probleme verschwinden lässt … still und leise? Ich hab Tränke, Tinkturen und Tropfen mit tödlicher Wirkung – gegen gutes Gold für Kunden ohne schlechtes Gewissen.~
 @3004 = ~Das klingt interessant. Was genau bietet Ihr an?~
-
 @3005 = ~Ich bin nicht bereit zu handeln.~
-
-@3006 = ~Oh, Ihr schon wieder! Was soll's diesmal sein? Ich hab' Tränke, Tinkturen und Tropfen mit tödlicher Wirkung – gegen gutes Gold für Kunden ohne schlechtes Gewissen.~
-
-@3007 = ~Ihr widert mich an. Die Welt braucht weniger Bösewichte wie Euch!~
-
+@3006 = ~Oh, Ihr schon wieder! Was solls diesmal sein? Ich hab Tränke, Tinkturen und Tropfen mit tödlicher Wirkung – gegen gutes Gold, für Kunden ohne schlechtes Gewissen.~
+@3007 = ~Ihr widert mich an! Die Welt braucht weniger Bösewichte wie Euch.~
 @3008 = ~Sagt mir, woher Ihr das wirklich gute Zeug bezieht.~
-
-@3009 = ~Ach, ein bisschen hiervon und davon – Gifte, die einen Spitzel zum Schweigen bringen, Gebräue, die einen Soldaten lahmlegen, Tropfen, die einen Mann die Eingeweide aus dem Leib husten lassen. Praktische kleine Werkzeuge, um Euer Leben leichter zu machen... und das der anderen kürzer.~
-
-@3010 = ~Ihr seid eine Plage für diese Stadt – ich sollte Euch hier und jetzt niederstrecken!~
-
+@3009 = ~Ach, ein bisschen hiervon und davon – Gifte, die einen Spitzel zum Schweigen bringen, Gebräue, die einen Soldaten lahmlegen, Tropfen, die einen Mann die Eingeweide aus dem Leib husten lassen. Praktische kleine Werkzeuge, um Euer Leben leichter zu machen … und das der Anderen kürzer.~
+@3010 = ~Ihr seid eine Plage für diese Stadt … Ich sollte Euch hier und jetzt niederstrecken!~
 @3011 = ~Ich suche etwas wahrhaft Mächtiges.~
-
 @3012 = ~Nicht jetzt. Ich muss darüber nachdenken.~
-
-@3013 = ~Um ehrlich zu sein: Ich trage das wirklich üble Zeug nicht bei mir – zu viele neugierige Augen, versteht Ihr? Aber... für das richtige Gold und den richtigen Kunden kenne ich vielleicht jemanden, der jemanden kennt, der das tödlichste Gift braut, das Ihr jemals gesehen habt!~
-
+@3013 = ~Um ehrlich zu sein, ich trage das wirklich üble Zeug nicht bei mir – zu viele neugierige Augen, versteht Ihr? Aber … für das richtige Gold und den richtigen Kunden kenne ich vielleicht jemanden, der jemanden kennt, der das tödlichste Gift braut, das Ihr jemals gesehen habt.~
 @3014 = ~Jemand wie Ihr verdient nichts weniger als den Tod!~
-
 @3015 = ~Ich suche die Person, die Euer tödlichstes Gift herstellt.~
-
 @3016 = ~Das ist nicht der passende Moment. Ich komme später wieder.~
-
-@3017 = ~Ha! Glaubt Ihr, ich verrate meinen Lieferanten dem ersten Schönredner mit einem Beutel voller Münzen? Träumt weiter. Solche Informationen gibt’s nicht umsonst – und selbst wenn: Ich riskiere nicht meinen Hals für einen Fremden mit Stiefeln, die für dieses Viertel viel zu sauber sind. Für wen haltet Ihr Euch eigentlich?~
-
+@3017 = ~Ha! Glaubt Ihr, ich verrate meinen Lieferanten dem ersten mit einem Beutel voller Münzen ausgestatteten Schmeichler? Träumt weiter. Solche Informationen gibts nicht umsonst – und selbst wenn, ich riskiere nicht meinen Hals für einen Fremden mit Stiefeln, die für dieses Viertel viel zu sauber sind. Für wen haltet Ihr Euch eigentlich?~ ~Ha! Glaubt Ihr, ich verrate meinen Lieferanten der ersten mit einem Beutel voller Münzen ausgestatteten Schmeichlerin? Träumt weiter. Solche Informationen gibts nicht umsonst – und selbst wenn, ich riskiere nicht meinen Hals für einen Fremden mit Stiefeln, die für dieses Viertel viel zu sauber sind. Für wen haltet Ihr Euch eigentlich?~
 @3018 = ~Mit Worten allein werdet Ihr mich nicht zum Reden bringen!~
-
 @3019 = ~Bitte, sagt es mir einfach.~
-
 @3020 = ~Wie hoch war noch einmal der Preis?~
-
 @3021 = ~Jeder hat seinen Preis. Wie hoch ist Eurer?~
-
 @3022 = ~Meine Kraft ist kein leeres Gerede. Muss ich Euch die Antwort wirklich aus dem Leib prügeln? Überlegt gut, auf welcher Seite meiner Fäuste Ihr stehen wollt.~
-
-@3023 = ~Minsc, vielleicht wäre Skann gesprächiger, wenn Ihr ihm Eure Muskeln zeigt. Wärt Ihr so freundlich?~
-
+@3023 = ~Minsk, vielleicht wäre Skann gesprächiger, wenn Ihr ihm Eure Muskeln zeigt. Wärt Ihr so freundlich?~
 @3024 = ~Ich bin <CHARNAME>. Ich bin berüchtigt. Fragt herum, was mit denen geschieht, die sich mir in den Weg stellen.~
-
 @3025 = ~Ich habe Mae’Var getötet. Wenn Ihr ihm also nicht nachfolgen wollt, fangt besser an zu reden.~
-
-@3026 = ~Vielleicht habt Ihr von mir gehört – ich bin <CHARNAME>. Ich habe Schlimmeres zu Fall gebracht als Euch, und ich brauche kein Gift dafür. Also sagt mir, was ich wissen will!~
-
+@3026 = ~Vielleicht habt Ihr von mir gehört – ich bin <CHARNAME>. Ich habe Schlimmere zu Fall gebracht als Euch, und ich brauche kein Gift dafür. Also sagt mir, was ich wissen will!~
 @3027 = ~Ich arbeite für die Schattendiebe. Ich bezweifle, dass sie von Eurem kleinen Nebengeschäft begeistert wären.~
-
-@3028 = ~Schon von dieser neuen Gilde gehört – derjenigen, die ihren Feinden das Blut aussaugt? Ich bezweifle, dass Eure Gifte ihnen viel anhaben könnten. Und nun ja... ich arbeite für sie.~
-
+@3028 = ~Schon von dieser neuen Gilde gehört – derjenigen, die ihren Feinden das Blut aussaugt? Ich bezweifle, dass Eure Gifte ihnen viel anhaben könnten. Und, nun ja … ich arbeite für sie.~
 @3029 = ~Mit Gossenabschaum wie Euch gebe ich mich nicht ab!~
-
 @3030 = ~Ich komme zurück, wenn die Zeit reif ist.~
-
 @3031 = ~Das ist ein Hamster. Ihr bedroht mich mit einem Nagetier?~
-
-@3032 = ~Nehmt Eure Zirkusnummer und verschwindet – es sei denn, Ihr habt Gold in der Hand oder Stahl an meiner Kehle. Ich habe einen Ruf zu wahren!~
-
-@3033 = ~Oh, Minsc... ich fürchte, er hat Boos Warnung nicht verstanden.~
-
+@3032 = ~Nehmt Eure Zirkusnummer und verschwindet! Es sei denn, Ihr habt Gold in der Hand oder Stahl an meiner Kehle. Ich habe einen Ruf zu wahren.~
+@3033 = ~Oh, Minsk … Ich fürchte, er hat Boos Warnung nicht verstanden.~
 @3034 = ~Wir sollten den Hamster lieber in Reserve halten, bis wir die Kunst der Einschüchterung gemeistert haben.~
-
 @3035 = ~Vielleicht sollten wir diesen kleinen Auftritt erst noch einmal proben, bevor wir ihn erneut versuchen.~
-
-@3036 = ~Ein tapferer Versuch... doch vielleicht bedarf es noch etwas Feinschliff vor der Zugabe.~
-
-@3037 = ~Ein kühner Ansatz. Leider vergebens.~
-
+@3036 = ~Ein tapferer Versuch … Doch vielleicht bedarf es noch etwas Feinschliff vor der Zugabe.~
+@3037 = ~Ein mutiger Versuch. Dennoch sind Zeitgefühl und Umsetzung entscheidend.~
 @3038 = ~Das lief nicht wie geplant. Lasst uns beim nächsten Mal besser Grausamkeit mit gerissenem Verstand verbinden.~
-
-@3039 = ~Muskeln zeigen? Ich würd' ihm lieber seine eigenen Eingeweide vor Augen halten. Das bringt seine Zunge zum reden, sag ich euch!~
-
-@3040 = ~Ha... Wenn ich Euch das sage, bin ich vor Morgengrauen ein toter Mann...~
-
-@3041 = ~Wenn ich’s recht bedenke... Sicherheit war noch nie meine Stärke. Vielleicht ist es an der Zeit, endlich gen Süden zu verschwinden? Nur – eine Überfahrt nach Calimshan, auf einem echten Schiff – das wird nicht ganz billig. Und in Calimhafen neu anfangen? Sagen wir, ich bräuchte sicher ein wenig Starthilfe. Wenn Ihr also wirklich daran interessiert seid, meinen Neuanfang zu unterstützen: Sagen wir zehntausend Goldstücke!~
-
-@3042 = ~Für zehntausend Goldstücke verschwinde ich aus dieser verfluchten Stadt. Für zehntausend Goldstücke vergesse ich, dass ich meinen Lieferanten je kannte – und Ihr erfahrt alles, was ich weiß. Abgemacht?~
-
+@3039 = ~Muskeln zeigen? Ich würd ihm lieber seine eigenen Eingeweide vor Augen halten. Das bringt seine Zunge zum reden, sag ich Euch!~
+@3040 = ~Ha … Wenn ich Euch das sage, bin ich vor Morgengrauen ein toter Mann …~
+@3041 = ~Wenn ichs recht bedenke … Sicherheit war noch nie meine Stärke. Vielleicht ist es an der Zeit, endlich gen Süden zu verschwinden? Nur … eine Überfahrt nach Calimshan, auf einem echten Schiff – das wird nicht ganz billig. Und in Calimhafen neu anfangen? Sagen wir, ich bräuchte sicher ein wenig Starthilfe. Wenn Ihr also wirklich daran interessiert seid, meinen Neuanfang zu unterstützen: Sagen wir 10.000 Goldstücke!~
+@3042 = ~Für 10.000 Goldstücke verschwinde ich aus dieser verfluchten Stadt. Für 10.000 Goldstücke vergesse ich, dass ich meinen Lieferanten je kannte – und Ihr erfahrt alles, was ich weiß. Abgemacht?~
 @3043 = ~Abgemacht. Hier ist Euer Geld.~
-
 @3044 = ~Das ist zu viel.~
-
 @3045 = ~So viel Geld habe ich nicht.~
-
-@3046 = ~Na dann – her mit den Münzen! Ich weiß nicht, ob Ihr verrückt oder einfach nur dumm seid, so viel für ein bisschen Information zu zahlen. Mir soll's recht sein. Bald lebe ich wie ein Pascha in Calimhafen!~
-
-@3047 = ~Oh, Ihr seid es? Jetzt da Ihr’s sagt – man hört neuerdings Gerüchte über einen berüchtigten <PRO_RACE> wie Euch aus dem Norden, der hier in der Stadt für Unruhe sorgt...~
-
+@3046 = ~Na dann, her mit den Münzen! Ich weiß nicht, ob Ihr verrückt oder einfach nur dumm seid, so viel für ein bisschen Information zu zahlen. Mir solls recht sein. Bald lebe ich wie ein Pascha in Calimhafen!~
+@3047 = ~Oh, Ihr seid es? Jetzt da Ihrs sagt, man hört neuerdings Gerüchte, dass ein berüchtigter <PRO_RACE> aus dem Norden wie Ihr hier in der Stadt für Unruhe sorgt …~
 @3048 = ~Ja, das bin ich.~
-
 @3049 = ~Unruhe stiften ist meine Spezialität.~
-
 @3050 = ~Ich bin nicht hier, um Unruhe zu stiften. Ich bin hier, um sie zu beenden.~
-
-@3051 = ~Oh – Ihr gehört zu den Schattendieben? Sagt ihnen, dass ich... äh... hört zu, ich wollte wirklich niemandem in die Suppe spucken.~
-
-@3052 = ~Nennt mir Euren Lieferanten, und wir betrachten die Sache als erledigt.~
-
-@3053 = ~Ah... diese neue Gilde. Ja, ich habe Geschichten gehört – üble Geschichten. Sie haben meinen Kumpel Therrik in Stücke gerissen!~
-
+@3051 = ~Oh, Ihr gehört zu den Schattendieben? Sagt ihnen, dass ich … äh …Hört zu, ich wollte wirklich niemandem in die Suppe spucken.~
+@3052 = ~Nennt mir Euren Lieferanten und wir betrachten die Sache als erledigt.~
+@3053 = ~Ah … diese neue Gilde. Ja, ich habe Geschichten gehört – üble Geschichten. Sie haben meinen Kumpel Therrik in Stücke gerissen!~
 @3054 = ~Ja, armer Therrik. Hat geschrien wie ein abgestochenes Schwein. Hätte vermutlich Euer Gift bevorzugt.~
-
-@3055 = ~Ihr haltet Therriks Schicksal für schlimm? Es gibt noch weit Schlimmeres für jene, die nicht kooperieren.~
-
+@3055 = ~Ihr haltet Therriks Schicksal für schlimm? Es gibt noch weit schlimmere für jene, die nicht kooperieren.~
 @3056 = ~Bevor er starb, hat Therrik meinen Herren von Euch erzählt.~
-
-@3057 = ~He, ich will keinen Ärger, verstanden? Ich... ich betreibe hier nur ein kleines Geschäft...~
-
-@3058 = ~Ihr sucht also den, der hinter dem wirklich üblen Gift steckt. Gut! Er hat einen Namen ... und mehr Blut an den Händen als jeder andere!~
-
-@3059 = ~Sein Name ist Delgorth. Merkwürdiger Kerl. Ich habe ihn nur zweimal getroffen – in einer Lichtung draußen im Wald. Mehr weiß ich nicht, bei den Göttern der Gosse, ich schwör's! Ich zeig' Euch den Ort, dann bin ich weg.~
-
+@3057 = ~He, ich will keinen Ärger, verstanden? Ich … ich betreibe hier nur ein kleines Geschäft …~
+@3058 = ~Ihr sucht also den, der hinter dem wirklich üblen Gift steckt. Gut! Er hat einen Namen … und vermutlich mehr Blut an den Händen als jeder andere!~
+@3059 = ~Sein Name ist Delgorth. Merkwürdiger Kerl. Ich habe ihn nur zweimal getroffen – auf einer Lichtung draußen im Wald. Mehr weiß ich nicht, bei den Göttern der Gosse, ich schwörs! Ich zeig Euch den Ort, dann bin ich weg.~
 @3060 = ~Eine kluge Entscheidung.~
-
 @3061 = ~Das ist alles, was ich wissen wollte.~
-
-@3062 = ~Diese Karte hier bringt Euch hin. Das Ding brennt mir ohnehin ein Loch in die Tasche. Hier – nun ist sie Euer Problem, nicht mehr meines.~
-
-@3063 = ~Das wär's dann. War ein Vergnügen, mit Euch Geschäfte zu machen... auf gewisse Weise. Falls jemand fragt: Wir haben nie miteinander gesprochen. Nun ist es an der Zeit für mich, zu verschwinden.~
-
-@3064 = ~Ihr seid ein Großmaul! Schade, dass Ihr Euch das falsche Dach ausgesucht habt, um den Helden zu spielen! Dann kämpfen wir eben! Meine kleinen Freunde – zu mir!~
-
-@3065 = ~Kommt wieder, wenn Ihr das passende Mittel für Euer Problem sucht. Ich bin hier... bis ich es irgendwann nicht mehr sein werde.~
-
-@3066 = ~Bah! Von mir bekommt Ihr nichts, es sei denn, Ihr habt etwas wirklich Gutes anzubieten. Zieht Leine!~
-
-@3067 = ~He, Ihr da hinten – wie war noch gleich Euer Name? <CHARNAME>? Ihr könnt Euren sterbenden Freund abholen! Und richtet seinen Herren aus: Legt Euch niemals mit einem Malagenten an!~
-
-@3068 = ~<CHARNAME>! Was für ein Glück! Ich... *hust*... habe mir das mächtige Gift eingefangen!~
-
+@3062 = ~Diese Karte hier bringt Euch hin. Das Ding brennt mir ohnehin ein Loch in die Tasche. Hier, nun ist sie Euer Problem, nicht mehr meines.~
+@3063 = ~Das wärs dann. War ein Vergnügen, mit Euch Geschäfte zu machen … auf gewisse Weise. Falls jemand fragt: Wir haben nie miteinander gesprochen. Nun ist es an der Zeit für mich zu verschwinden.~
+@3064 = ~Ihr seid ein Großmaul! Schade, dass Ihr Euch das falsche Dach ausgesucht habt, um den Helden zu spielen! Dann kämpfen wir eben! Meine kleinen Freunde, zu mir!~ ~Ihr seid ein Großmaul! Schade, dass Ihr Euch das falsche Dach ausgesucht habt, um die Heldin zu spielen! Dann kämpfen wir eben! Meine kleinen Freunde, zu mir!~
+@3065 = ~Schon gut, schon gut. Kommt wieder, wenn Ihr Geschmack an den Schatten gefunden habt und Eure Sorgen in Fläschchen füllen wollt. Ich bin hier … bis ich es nicht mehr bin.~
+@3066 = ~Bah! Von mir bekommt Ihr nichts, es sei denn, Ihr habt etwas wirklich Gutes anzubieten. Verschwindet!~
+@3067 = ~He, Ihr da hinten, wie war noch gleich Euer Name? <CHARNAME>? Ihr könnt Euren sterbenden Freund abholen! Und richtet seinen Herren aus: Legt Euch niemals mit einem Malagenten an!~
+@3068 = ~<CHARNAME>! Wir haben Glück! Ich … (hust) … habe dieses starke Gift eingefangen!~
 @3069 = ~Das ist offensichtlich.~
-
 @3070 = ~Keine Sorge! Ich werde Euch heilen.~
-
 @3071 = ~Wenn Ihr das Glück nennt, möchte ich lieber nicht wissen, was Pech für Euch bedeutet.~
-
 @3072 = ~Ausgezeichnet! Dann ist ja alles gut gegangen.~
-
 @3073 = ~Wovon sprecht Ihr?~
-
-@3074 = ~Ich wurde getroffen, doch einer der Pfeile verfing sich in meiner Robe. Die Pfeilspitze ist noch immer mit dem Gift getränkt!~
-
+@3074 = ~Ich wurde getroffen, doch einer der Pfeile verfing sich in meiner Robe. Die Pfeilspitze ist noch immer mit dem Gift getränkt.~
 @3075 = ~Besser hätte es nicht laufen können!~
-
-@3076 = ~Vergiftet und Eurer Göttin treu ergeben. Ihr Eldath-Anhänger seid wirklich hartnäckig.~
-
+@3076 = ~Vergiftet und Eurer Göttin treu ergeben … Ihr Eldath-Anhänger seid wirklich hartnäckig.~
 @3077 = ~Dieser Pfeil könnte uns direkt zu dem Dreckskerl führen, der dahintersteckt.~
-
 @3078 = ~Das bedeutet was?~
-
-@3079 = ~Da wir jetzt das Gift besitzen, können wir es auch untersuchen. Nur... ich wohl nicht mehr. Eldaths stille Wasser rufen mich. Ich spüre ihren Hauch... Diese Aufgabe obliegt nun Euch!~
-
-@3080 = ~Ihr müsst... müsst diesen Pfeil, mitsamt dem Gift, zu dem Hochverehrten Hüter der Stillen Wasser Alatoasz Berendim bringen, dem Hohepriester meines Ordens im Dämmerwaldtal. Er wird wissen, wie weiter zu verfahren ist.~
-
-@3081 = ~Das ist ein ziemlich langer Titel für Euren Hochpriester.~
-
+@3079 = ~Da wir jetzt das Gift besitzen, können wir es auch untersuchen. Nur … ich wohl nicht mehr. Eldaths stille Wasser rufen mich. Ich spüre ihren Hauch … Diese Aufgabe obliegt nun Euch!~
+@3080 = ~Ihr müsst … müsst diesen Pfeil mitsamt dem Gift zum Hochverehrten Hüter der Stillen Wasser Alatoasz Berendim bringen – dem Hohepriester meines Ordens im Dämmerwaldtal. Er wird wissen, wie weiter zu verfahren ist.~
+@3081 = ~Das ist ein ziemlich langer Titel für einen Hohepriester.~
 @3082 = ~Ihr habt mein Wort. Ich werde ihn aufsuchen.~
-
 @3083 = ~Der Hüter der Stillen Wasser wird wissen, was zu tun ist, und jemand wird für das büßen, was Euch angetan wurde.~
-
 @3084 = ~Wenn es hilft, diesen Wahnsinn zu beenden, werde ich es tun.~
-
 @3085 = ~Und was ist mit Euch? Ich dachte, Ihr würdet mich begleiten.~
-
 @3086 = ~Ich habe genug von allem und will damit nichts mehr zu tun haben.~
-
 @3087 = ~Seine Titel bedeuten ihm wenig. Doch dahinter steht ein Mann von seltener Ruhe und Zielstrebigkeit, wie Ihr erkennen werdet.~
-
 @3088 = ~Und was ist mit Euch?~
-
 @3089 = ~Sehr wohl. Sagt mir, wo dieser Ort liegt.~
-
 @3090 = ~Sorgt Euch nicht um mich. Mein Weg endet hier, wie ein Fluss schließlich ins Meer mündet und sich in ihm verliert. Ihr müsst diese Aufgabe vollenden und ins Dämmerwaldtal gehen!~
-
 @3091 = ~Ich weiß nicht. Ich möchte nicht länger damit beschäftigt sein.~
-
-@3092 = ~Bitte... wenn nicht für mich, dann für jene, die vielleicht noch gerettet werden können. Ich kann nichts mehr tun - aber Ihr könnt es! Geht ins Dämmerwaldtal.~
-
-@3093 = ~Das Dämmerwaldtal ist das Herz Eldaths Glaubens – nicht nur in Amn, sondern in ganz Faerûn. Dort wird die Spur des Giftes weiterverfolgt werden können. Unser Tempel liegt verborgen im Schlangenwald. Unter normalen Umständen ist er schwer zu finden... doch ich werde Euch den Weg weisen.~
-
-@3094 = ~Und beinahe hätte ich es vergessen – unser Feind offenbarte in seiner Eitelkeit sein wahres Gesicht! Sagt Alatoasz, dass ich von einem Malagenten vergiftet wurde... er wird verstehen, was das bedeutet.~
-
-@3095 = ~Keine weiteren Worte... Möge dieser Wald meinen letzten Atem vernehmen und seine Brise mich zu stillen Wassern tragen...~
-
-@3096 = ~Er war so freundlich... Ich wünschte, wir hätten mehr für ihn tun können.~
-
+@3092 = ~Bitte … Wenn nicht für mich, dann für jene, die vielleicht noch gerettet werden können. Ich kann nichts mehr tun, aber Ihr könnt es. Geht ins Dämmerwaldtal!~
+@3093 = ~Das Dämmerwaldtal ist das Herz Eldaths Glaubens – nicht nur in Amn, sondern in ganz Faerûn. Dort wird die Spur des Giftes weiterverfolgt werden können. Unser Tempel liegt verborgen im Schlangenwald. Unter normalen Umständen ist er schwer zu finden … doch ich werde Euch den Weg weisen.~
+@3094 = ~Und beinahe hätte ich es vergessen, unser Feind offenbarte in seiner Eitelkeit sein wahres Gesicht. Sagt Alatoasz, dass ich von einem Malagenten vergiftet wurde … Er wird verstehen, was das bedeutet.~
+@3095 = ~Keine weiteren Worte … Möge dieser Wald meinen letzten Atem vernehmen und seine Brise mich zu stillen Wassern tragen …~
+@3096 = ~Er war so freundlich … Ich wünschte, wir hätten mehr für ihn tun können.~
 @3097 = ~Euer Weg endet in der Stille, wie alle Wege. Möge Eure Seele mit den ruhigen Wassern eins werden, denen Ihr so treu gedient habt.~
-
 @3098 = ~Wie rührend. Die Schwachen bilden sich stets ein, ihr Ende hätte irgendeine Bedeutung.~
-
-@3099 = ~Ruht in Frieden, Priester Eldaths. Der Wald wird sich an Euch erinnern – und wir ebenso. Möge Eure Seele Frieden finden.~
-
-@3100 = ~Ihr verlasst die Bühne mit nichts als einem Flüstern... Ein passendes Ende für einen Verehrer der Stille.~
-
-@3101 = ~Noch ein Leichnam im Dreck. Ihr Fleischgeborenen trauert zu leichtfertig. Wenigstens hat er nicht geschrien – das erleichtert die Entsorgung.~
-
+@3099 = ~Ruht in Frieden, Priester Eldaths. Der Wald wird sich an Euch erinnern – und wir ebenso. Möge Eure Seele Frieden finden.~
+@3100 = ~Ihr verlasst die Bühne mit nichts als einem Flüstern … Ein passendes Ende für einen Verehrer der Stille.~
+@3101 = ~Noch ein Leichnam im Dreck. Ihr Fleischgeborenen trauert zu leichtfertig. Wenigstens hat er nicht geschrien – das erleichtert die Entsorgung.~
 @3102 = ~Oh, das ist furchtbar. Ich meine, friedlich und alles, aber trotzdem furchtbar. Glaubt Ihr, seine Göttin holt ihn wirklich zu sich?~
-
-@3103 = ~Ihr habt Euren Ort weise gewählt, Priester. Ein stilles Ende unter uralten Zweigen... Möge Euer Geist mit dem Wind treiben, fern von dieser vergifteten Welt.~
-
-@3104 = ~Tod ist wie Durchfall – man merkt ihn erst, wenn es schon zu spät ist und die Hosen halb voll sind.~
-
-@3105 = ~Geht sanft, Bruder. Die Blätter werden Euren Namen flüstern, und der Wind wird Euren Atem in den ewigen Kreislauf tragen.~
-
-@3106 = ~Er stirbt mit Sinn – und im Glauben. Möge seine Göttin ihn empfangen.~
-
-@3107 = ~Ich ehre Eure Hingabe. Ruht nun, Diener Eldaths – Euer Opfer wird nicht vergessen werden.~
-
-@3108 = ~Ihr habt alles für Euren Glauben gegeben... Ich hoffe, Eure Göttin schenkt Euch Frieden. Die Welt bräuchte mehr wie Euch.~
-
-@3109 = ~Er war ein guter Mann! Möge der Wald ihn behüten... und möge der Giftmischer bald meinen gerechten Zorn spüren!~
-
-@3110 = ~Frieden und Gift – eine reizvolle Kombination. Ich bin sicher, seine Göttin weiß die Ironie zu schätzen.~
-
+@3103 = ~Ihr habt Euren Ort weise gewählt, Priester. Ein stilles Ende unter uralten Zweigen … Möge Euer Geist mit dem Wind treiben, fern von dieser vergifteten Welt.~
+@3104 = ~Tod ist wie Durchfall – man merkt ihn erst, wenn es schon zu spät ist und die Hosen halb voll sind.~
+@3105 = ~Geht sanft, Bruder. Die Blätter werden Euren Namen flüstern und der Wind wird Euren Atem in den ewigen Kreislauf tragen.~
+@3106 = ~Er stirbt mit Sinn – und im Glauben. Möge seine Göttin ihn empfangen.~
+@3107 = ~Ich ehre Eure Hingabe. Ruht nun, Diener Eldaths … Euer Opfer wird nicht vergessen werden.~
+@3108 = ~Ihr habt alles für Euren Glauben gegeben … Ich hoffe, Eure Göttin schenkt Euch Frieden. Die Welt bräuchte mehr wie Euch.~
+@3109 = ~Er war ein guter Mann! Möge der Wald ihn behüten … und möge der Giftmischer bald meinen gerechten Zorn spüren!~
+@3110 = ~Frieden und Gift – eine reizvolle Kombination. Ich bin sicher, seine Göttin weiß die Ironie zu schätzen.~
 @3111 = ~Ein Idealist verblutet im Staub und faselt von Frieden. Sollen ihn jetzt die Würmer holen.~
-
-@3112 = ~Wenn ich je so sterbe – auf dem Rücken liegend in einem Haufen Vogeldreck und in die Blätter starrend – dann werft mich rasch auf den Scheiterhaufen, sonst kehre ich aus Scham als Wiedergänger zurück!~
-
-@3113 = ~Frieden... endlich...~
-
-@3114 = ~Seid gegrüßt, Fremder. Ein vortrefflicher Ort, um hier draußen in der Wildnis Geschäfte zu machen, nicht wahr? Es wachsen viele Pilze hier – man sollte nur aufpassen, nicht die Giftigen zu sammeln.~
-
-@3115 = ~Ihr braucht Euch nicht zu verstellen, Priester. Meine Kontakte in Athkatla haben mich bereits über Euer Kommen informiert.~ 
-
+@3112 = ~Wenn ich je so sterbe – auf dem Rücken liegend in einem Haufen Vogeldreck und in die Blätter starrend –, dann werft mich rasch auf den Scheiterhaufen, sonst kehre ich aus Scham als Wiedergänger zurück!~
+@3113 = ~Frieden … endlich …~
+@3114 = ~Seid gegrüßt, Fremder. Ein vortrefflicher Ort, um hier draußen in der Wildnis Geschäfte zu machen, nicht wahr? Es wachsen viele Pilze hier – man sollte nur aufpassen, nicht die Giftigen zu sammeln.~ ~Seid gegrüßt, Fremde. Ein vortrefflicher Ort, um hier draußen in der Wildnis Geschäfte zu machen, nicht wahr? Es wachsen viele Pilze hier – man sollte nur aufpassen, nicht die Giftigen zu sammeln.~
+@3115 = ~Ihr braucht Euch nicht zu verstellen, Priester. Meine Kontakte in Athkatla haben mich bereits über Euer Kommen informiert.~ [STHMA04]
 @3116 = ~Gut! Dann habt Ihr also das Gift mitgebracht, nach dem ich verlangte?~
-
 @3117 = ~In der Tat! Ihr werdet es bald selbst kosten!~
-
-@3118 = ~Was meint Ihr...?~
-
+@3118 = ~Was meint Ihr?~
 @3119 = ~Für wie töricht haltet Ihr mich, Eldathyner? Glaubt Ihr, ich durchschaue Eure Machenschaften nicht? Meint Ihr, ich hätte diese Tölpel zwischen den Bäumen dahinten nicht bemerkt?~
-
-@3120 = ~Ihr wolltet mich in einen Hinterhalt locken – doch ich habe die Falle gegen Euch gewendet. Wadal, mein treuer Diener?~
-
+@3120 = ~Ihr wolltet mich in einen Hinterhalt locken, doch ich habe die Falle gegen Euch gewendet. Wadal, mein treuer Diener?~
 @3121 = ~Ja, Meissster?~
-
-@3122 = ~Nimm den besonderen Pfeil, den ich vorbereitet habe. Schieß ihn auf diesen jämmerlichen Friedensschwärmer.~
-
-@3123 = ~Sssicher... Wadal schiessst niemalsss daneben.~
-
+@3122 = ~Nehmt den besonderen Pfeil, den ich vorbereitet habe. Schießt ihn auf diesen jämmerlichen Friedensschwärmer.~
+@3123 = ~Sssicher … Wadal schiessst niemalsss daneben.~
 @3124 = ~<CHARNAME>! Zu mir!~
-
-@3125 = ~Euer <CHARNAME> wird Euch nicht retten. Nun bekommt Ihr das Gift, nach dem Ihr verlangtet: Mitten ins Herz!~
-
-@3126 = ~Dies sollte der richtige Ort sein. Wartet hier – ich gehe voraus und versuche zu verhandeln. Greift nur ein, falls die Dinge schlecht verlaufen.~
-
+@3125 = ~Euer <CHARNAME> wird Euch nicht retten. Nun bekommt Ihr das Gift, nach dem Ihr verlangtet, oh ja! Mitten ins Herz!~
+@3126 = ~Dies sollte der richtige Ort sein. Wartet hier, ich gehe voraus und versuche zu verhandeln. Greift nur ein, falls die Dinge schlecht verlaufen.~
 @3127 = ~Seid erneut gegrüßt, <CHARNAME>. Sollen wir zur Fliegenpilzlichtung aufbrechen?~
-
-@3128 = ~Gewiss! Auf geht's.~
-
+@3128 = ~Gewiss. Auf gehts.~
 @3129 = ~Noch nicht. Ich brauche etwas mehr Zeit.~
-
-@3130 = ~Schön, Euch wiederzusehen! Konntet Ihr Skann Delth zum Reden bringen? Wisst Ihr, wo er seinen Lieferanten trifft?~
-
+@3130 = ~Schön Euch wiederzusehen! Konntet Ihr Skann Delth zum Reden bringen? Wisst Ihr, wo er seinen Lieferanten trifft?~
 @3131 = ~Ja, ich habe die Information erhalten. Ich habe ein Dokument, das den Ort erwähnt.~
-
 @3132 = ~Nein, bislang habe ich nichts in Erfahrung bringen können.~
-
-@3133 = ~Ausgezeichnet. Lasst mich sehen...~
-
-@3134 = ~Fliegenpilzlichtung? Ich kenne diesen Ort. Abgelegen, selten besucht – ein idealer Treffpunkt für ein solches Vorhaben. Es gibt nur einen Weg: Wir müssen dorthin gehen und sehen, ob sich der geheimnisvolle Giftmischer zeigt. Sollen wir aufbrechen?~
-
+@3133 = ~Ausgezeichnet. Lasst mich sehen …~
+@3134 = ~Fliegenpilzlichtung? Ich kenne diesen Ort. Abgelegen, selten besucht – ein idealer Treffpunkt für ein solches Vorhaben. Es gibt nur einen Weg: Wir müssen dort hingehen und sehen, ob sich der geheimnisvolle Giftmischer zeigt. Sollen wir aufbrechen?~
 @3135 = ~Hervorragend! Die Reise sollte nicht allzu lange dauern.~
-
 @3136 = ~Lebt wohl, mein lieber Freund Ilmaters, und nochmals Dank für Eure Gastfreundschaft in diesen heiligen Hallen.~
-
 @3137 = ~Lebt wohl, Priester der Friedensgöttin. Mögen Ilmaters Segnungen mit Euch sein.~
-
 @3138 = ~Dann lasst uns aufbrechen.~
-
-@3139 = ~Dann werde ich hier bleiben und auf Euch warten.~
-
-@3140 = ~Seid gegrüßt, <CHARNAME>. Verzeiht, dass ich Euch direkt mit Namen anspreche; ich habe Euch eine Weile beobachtet und könnte Eure Hilfe benötigen.~
-
+@3139 = ~Dann werde ich hierbleiben und auf Euch warten.~
+@3140 = ~Seid gegrüßt, <CHARNAME>. Verzeiht, dass ich Euch direkt mit Namen anspreche. Ich habe Euch eine Weile beobachtet und könnte Eure Hilfe benötigen.~
 @3141 = ~Ihr habt meine Aufmerksamkeit. Welche Art von Hilfe benötigt Ihr?~
-
-@3142 = ~Gern – sofern die Bezahlung stimmt.~
-
+@3142 = ~Gern – sofern die Bezahlung stimmt.~
 @3143 = ~Ich schätze es nicht, ausspioniert zu werden.~
-
 @3144 = ~Sucht Euch jemand anderen, der Euch hilft.~
-
 @3145 = ~Ich wollte Euch nicht beleidigen. In Zeiten wie diesen bedeutet Vorsicht Überleben. Darf ich Euch darlegen, was ich anzubieten habe?~
-
 @3146 = ~Sagt mir, was Euch bedrückt.~
-
 @3147 = ~Was wollt Ihr von mir?~
-
-@3148 = ~Ich höre zu – sofern die Bezahlung stimmt.~
-
+@3148 = ~Ich höre zu – sofern die Bezahlung stimmt.~
 @3149 = ~Ich möchte mich zunächst vorstellen. Mein Name ist Merethan. Ich bin ein ergebener Diener Eldaths, der Göttin des Friedens.~
-
 @3150 = ~In diesen Zeiten trifft man nicht oft auf einen Anhänger Eldaths. Ich hoffe, seine Worte beinhalten mehr als friedliche Höflichkeiten.~
-
 @3151 = ~Ein Eldathyner! Eine stille Seele in einer Welt, die allzu oft dem Getöse verfallen ist.~
-
 @3152 = ~Seid gegrüßt, Merethan. Was kann ich für Euch tun?~
-
 @3153 = ~Es freut mich, einem Diener Eldaths zu begegnen. Was führt Euch zu mir?~
-
 @3154 = ~Ihr wisst offensichtlich, wer ich bin. Doch ich weiß nichts über Euch. Sagt mir, was Ihr von mir verlangt.~
-
 @3155 = ~Eldath? Noch nie von ihr gehört.~
-
 @3156 = ~Meine Göttin ist Hüterin des Friedens, stiller Wasser und ruhiger Orte. Sie lehrt uns, zu heilen statt Leid zuzufügen. In ihrem Namen bitte ich um Eure Hilfe. Lasst es mich Euch näher zu erklären.~
-
-@3157 = ~Vor nicht allzu langer Zeit seid Ihr einem vergifteten Mann begegnet – Renfeld, wenn ich mich recht entsinne. Ihr brachtet ihn schwer gezeichnet vom Gift hierher nach Athkatla.~
-
+@3157 = ~Vor nicht allzu langer Zeit seid Ihr einem vergifteten Mann begegnet – Renfeld, wenn ich mich recht entsinne. Ihr brachtet ihn schwer gezeichnet vom Gift hierher nach Athkatla.~
 @3158 = ~Ich weiß nicht, wo er sich gerade befindet, geschweige denn wie es ihm gerade geht. Was ich jedoch weiß, ist, dass das Gift, das ihn befallen hat, Anlass zu großer Sorge ist.~
-
 @3159 = ~Gifte lassen sich normalerweise durch Zauber oder Gegenmittel heilen; oder zumindest lindern. Doch nichts davon wirkte bei Renfeld. Was immer sein Leiden verursachte, trotzte jedem Versuch, es zu heilen. Und das ist nicht das Einzige, das mich dabei beunruhigt.~
-
 @3160 = ~Denn es ist nicht das erste Mal, dass ein solches Gift verwendet wird. Solcherart Vorfälle häufen sich in letzter Zeit.~
-
-@3161 = ~Von einem Gift befallen, das nichts zu lindern vermag... so grausam ist die Welt.~
-
+@3161 = ~Von einem Gift befallen, das nichts zu lindern vermag … so grausam ist die Welt.~
 @3162 = ~Ich bin in Heilung geschult, doch ich habe nie von etwas gehört, das ihr völlig widersteht. Es muss sich um etwas wahrhaft Furchtbares handeln.~
-
-@3163 = ~Wie reizend. Natha elg'cahl phor jal elg'cahlen – ein Gift über allen Giften.~
-
+@3163 = ~Wie reizend. Natha elg’cahl phor jal elg’cahlen – ein Gift über allen Giften.~
 @3164 = ~Ein unheilbares Gift? Das kann nicht sein. Es gibt immer ein Heilmittel. Immer.~
-
 @3165 = ~Dieses Toxin ist ein Verbrechen am Leben selbst. Nicht wie das Fällen eines einzelnen Baumes, sondern wie die Verseuchung aller Wasser eines Waldes.~
-
 @3166 = ~Bei Arvoreens Gnade! Wer eine solche Bosheit erschafft, muss zur Rechenschaft gezogen werden.~
-
 @3167 = ~Gift bleibt stets die Waffe eines Feiglings.~
-
-@3168 = ~Wenn eine böse Macht hinter diesem Gift steht, muss sie gestürzt werden – zum Wohle aller ehrbaren Leute.~
-
-@3169 = ~Wahrscheinlich leiden wieder die Mittellosen am meisten: Menschen ohne Leibwächter oder Vorkoster.~
-
+@3168 = ~Wenn eine böse Macht hinter diesem Gift steht, muss sie gestürzt werden, zum Wohle aller ehrbaren Leute.~
+@3169 = ~Wahrscheinlich leiden wieder die Mittellosen am meisten – Menschen ohne Leibwächter oder Vorkoster.~
 @3170 = ~Ein Gift, das durch Eure jämmerlichen Gebete nicht erreicht wird? Vielleicht hören Eure Götter einfach nicht richtig zu.~
-
 @3171 = ~Selbst die stillsten Wasser bleiben im Angesicht von Gefahr nicht unberührt. Im Namen der Kirche Eldaths wurde ich entsandt, das Geheimnis dieses Giftes zu lüften.~
-
 @3172 = ~Ihr habt mein Interesse. Fahrt fort.~
-
 @3173 = ~Das ist entsetzlich! Wer könnte dafür verantwortlich sein?~
-
 @3174 = ~Wenn jemand dahintersteckt, wird er es bald bereuen.~
-
 @3175 = ~Ein nützliches Werkzeug für jemanden mit einem Dolch und vielen dunklen Absichten.~
-
 @3176 = ~Dieses Gift klingt überaus vielversprechend.~
-
 @3177 = ~Zunächst vermutete ich, eine der vielen bösartigen Gruppierungen Faerûns habe diese scheußliche Substanz ersonnen. Doch meine Nachforschungen ergaben etwas Beunruhigendes: Das Gift wurde von völlig unterschiedlichen Fraktionen genutzt, die niemals ein Bündnis oder einen gemeinsamen Zweck haben. Sie haben gegensätzliche Ziele, nur dasselbe tödliche Mittel.~
-
-@3178 = ~Das kann nur bedeuten, dass eine gänzlich andere Macht dahintersteht: Eine, die auf eigene Rechnung handelt, im Hintergrund wirkt und schlicht Gefallen an dem Elend findet, welches ihr Gift hinterlässt.~
-
-@3179 = ~Still und tödlich... Das Zeug ist wie die Blähung nach einem Steckrübenbankett: Man weiß nicht, wer es gewesen ist, aber irgendjemand muss sicher leiden.~
-
+@3178 = ~Das kann nur bedeuten, dass eine gänzlich andere Macht dahintersteht – eine, die auf eigene Rechnung handelt, im Hintergrund wirkt und schlicht Gefallen an dem Elend findet, welches ihr Gift hinterlässt.~
+@3179 = ~Still und tödlich … Das Zeug ist wie die Blähung nach einem Steckrübenbankett: Man weiß nicht, wer es gewesen ist, aber irgendjemand muss sicher leiden.~
 @3180 = ~Ihr wollt also, dass ich diesen Giftmischer zur Rechenschaft ziehe?~
-
 @3181 = ~Wie genau gedenkt Ihr, diesen geheimnisvollen Drahtzieher zu finden?~
-
-@3182 = ~Das klingt schon, als hättet Ihr eine Aufgabe für mich im Sinn...~
-
-@3183 = ~Was immer das ist – es ist nicht mein Problem. Sucht Euch jemand anderen.~
-
+@3182 = ~Das klingt schon, als hättet Ihr eine Aufgabe für mich im Sinn.~
+@3183 = ~Was immer das ist, es ist nicht mein Problem. Sucht Euch jemand anderen.~
 @3184 = ~Es könnte schwer werden, den wahren Übeltäter zu finden. Wir können nicht direkt ins Dickicht stoßen. Wir müssen es behutsam lichten, Zweig für Zweig, bis sich der Pfad zum Ursprung des Giftes offenbart.~
-
 @3185 = ~Ich habe bereits versucht, mit jemandem in Verbindung zu treten, der uns zum Urheber dieses Giftes führen könnte: In den Slums von Athkatla hält sich eine zwielichtige Gestalt auf, die behauptet, seltene Gifte beschaffen zu können. Ich gab mich als Käufer aus. Leider gelang es mir nicht, ihn dazu zu bewegen, den Aufenthaltsort seines Lieferanten preiszugeben. Er wurde misstrauisch.~
-
 @3186 = ~Offenbar fehlen mir die notwendigen Überredungskünste für derartige Geschäfte. Ihr hingegen könntet Euch als geschickter erweisen.~
-
 @3187 = ~Ihr predigt Frieden und schickt andere vor, wenn es ungemütlich wird?~
-
 @3188 = ~Überreden? Nichts überzeugt besser als eine gebrochene Nase und ein paar fehlende Zähne!~
-
 @3189 = ~Selbst die Gläubigen der sanften Göttin wissen also, wann schärfere Zungen gefragt sind.~
-
 @3190 = ~Ich bitte Euch, einen Giftverkäufer namens Skann Delth in den Slums von Athkatla aufzusuchen. Er ist zu einfältig, um die Gifte selbst zu brauen. Er muss sie von jemand anderem beziehen. Wenn Ihr die Quelle seiner Waren herausgefunden habt, bitte ich Euch, mich zu begleiten, um den Drahtzieher zur Rechenschaft zu ziehen.~
-
 @3191 = ~Gut, das klingt machbar.~
-
 @3192 = ~Und was springt für mich dabei heraus?~
-
 @3193 = ~Nein, das werde ich nicht tun.~
-
 @3194 = ~Ich erwarte nicht, dass Ihr ohne Lohn handelt. Gold bedeutet meinem Glauben wenig, doch ich kann Euch zahlreiche wohltuende Tränke anbieten, wenn Ihr mir in dieser Sache beisteht.~
-
 @3195 = ~In Ordnung. Ich bin dabei.~
-
 @3196 = ~Ich werde Euch gerne helfen.~
-
 @3197 = ~Nein, das werde ich nicht tun.~
-
 @3198 = ~Seid Ihr sicher, dass Ihr mir nicht helfen wollt?~
-
 @3199 = ~Ich werde Euch helfen.~
-
 @3200 = ~Ich werde Euch nicht helfen.~
-
-@3201 = ~Ausgezeichnet! Skann Delth hält sich für gewöhnlich auf dem Dach der Kupferkrone auf und preist dort lautstark seine Waren an. Die meisten davon taugen wenig: Taschenspielertricks und Tinkturen, mit denen sich Leichtgläubige um ihr Gold bringen lassen. Besteht darauf, dass Ihr etwas wahrhaft Gefährliches sucht und versucht herauszufinden, woher er sein Gift bezieht.~
-
+@3201 = ~Ausgezeichnet! Skann Delth hält sich für gewöhnlich auf dem Dach der Kupferkrone auf und preist dort lautstark seine Waren an. Die meisten davon taugen wenig – Taschenspielertricks und Tinkturen, mit denen sich Leichtgläubige um ihr Gold bringen lassen. Besteht darauf, dass Ihr etwas wahrhaft Gefährliches sucht und versucht herauszufinden, woher er sein Gift bezieht.~
 @3202 = ~Ich werde im Tempel Ilmaters in den Slums auf Euch warten. Sucht mich dort auf, sobald Ihr etwas in Erfahrung gebracht habt, damit wir wissen, wo wir die Spur weiterverfolgen müssen.~
-
 @3203 = ~Das ist bedauerlich. Seid Ihr sicher, dass Ihr mir nicht helfen wollt?~
-
 @3204 = ~Gut, ich werde versuchen, Euch zu helfen.~
-
 @3205 = ~Ja, ich bin sicher. Sucht Euch jemand anderen.~
-
 @3206 = ~Nun gut, dann muss ich anderweitig Hilfe suchen.~
-
-@3207 = ~Muskeln? Nein! Doch seht her – BOO! Der Zorn der Rechtschaffenheit!~
+@3207 = ~Muskeln? Nein! Doch seht her: BOO! Der Zorn der Rechtschaffenheit!~

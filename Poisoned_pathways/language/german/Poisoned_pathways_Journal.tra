@@ -1,381 +1,235 @@
-// Journal strings
+// game: Poisoned Pathways
+// date: 2026-08-04, 21:34
+// Caution: This file is in UTF-8 format because it uses several special characters of non-english languages
 
-//Quest start
-@12000 = ~Das vollkommene Gift
+@12000 = ~Das perfekte Gift
 
-In Athkatla sprach mich ein Anhänger Eldaths namens Merethan wegen eines unheilbaren Giftes an, das sich im Land ausbreitet. Er glaubt, ein zwielichtiger Giftlieferant stecke dahinter, und bat mich, die Quelle ausfindig zu machen.~
+In Athkatla hat mich ein Anhänger Eldaths namens Merethan wegen eines unheilbaren Giftes angesprochen, das sich im Land ausbreitet. Er glaubt, ein zwielichtiger Giftlieferant stecke dahinter, und hat mich gebeten, die Quelle ausfindig zu machen.~
+@12001 = ~Das perfekte Gift
 
-@12001 = ~Das vollkommene Gift
+Merethan hat mich an Skann Delth verwiesen, einen Giftkrämer, der sich auf dem Dach der Kupferkrone herumtreibt. Ich soll ihn zu der Herkunft seiner tödlichsten Waren befragen. Merethan erwartet mich danach im Tempel des Ilmater in den Slums von Athkatla.~
+@12002 = ~Das perfekte Gift
 
-Merethan verwies mich an Skann Delth, einen Giftkrämer, der sich auf dem Dach der Kupferkrone herumtreibt. Ich soll ihn zu der Herkunft seiner tödlichsten Waren befragen. Merethan erwartet mich danach im Tempel des Ilmater in den Slums von Athkatla.~
-
-@12002 = ~Das vollkommene Gift
-
-Ich stellte Skann Delth zur Rede und erhielt eine Karte zu einem abgelegenen Ort namens Fliegenpilzlichtung. Diese Karte muss ich zu Merethan bringen, der im Tempel des Ilmater in den Slums von Athkatla auf mich wartet.~
-
-@12003 = ~Das vollkommene Gift
+Ich habe Skann Delth zur Rede gestellt und eine Karte zu einem abgelegenen Ort namens Fliegenpilzlichtung erhalten. Diese Karte muss ich zu Merethan bringen, der im Tempel des Ilmater in den Slums von Athkatla auf mich wartet.~
+@12003 = ~Das perfekte Gift
 
 Merethan wünscht, dass ich ihn zur Fliegenpilzlichtung begleite, um den Giftmischer zu stellen. Er erwartet mich im Tempel des Ilmater in den Slums, damit wir gemeinsam aufbrechen können.~
+@12004 = ~Das perfekte Gift
 
-@12004 = ~Das vollkommene Gift
+An der Fliegenpilzlichtung sind wir in einen Hinterhalt geraten. Ein Yuan-Ti-Diener des geheimnisvollen Giftmischers hat Merethan getötet, doch einer der Pfeile blieb mit dem Toxin getränkt zurück. Merethan hat mich gebeten, den Pfeil zum Hohepriester Alatoasz Berendim in Eldaths Heiligtum im Dämmerwaldtal zu bringen.~
+@12005 = ~Das perfekte Gift
 
-An der Fliegenpilzlichtung gerieten wir in einen Hinterhalt. Ein Yuan-Ti-Diener des geheimnisvollen Giftmischers tötete Merethan, doch einer der Pfeile blieb mit dem Toxin getränkt zurück. Merethan bat mich, den Pfeil zum Hohepriester Alatoasz Berendim in Eldaths Heiligtum im Dämmerwaldtal zu bringen.~
+Alatoasz Berendim glaubt, der Schlüssel zum Verständnis des Giftes liege in den Ruinen einer alten elfischen Stadt. Er vermutet, dass die seltene Pflanze, aus der es gewonnen wurde, dort wächst. Um die Suche einzugrenzen, hat er mich gebeten, den Tempel des Oghma in Athkatla aufzusuchen und Schriften über das verlorene Königreich Keltormir zu ihm zu bringen.~
+@12006 = ~Das perfekte Gift
 
-@12005 = ~Das vollkommene Gift
+Ich habe das Buch aus dem Tempel des Oghma zu Alatoasz Berendim gebracht. Der Ursprung der Giftpflanze weist nach Myth Unnohyr, einer zerstörten elfischen Stadt, deren Mythal bei Tag unbändige Magie und bei Nacht tote Magie hervorbringt. Diese Verderbnis scheint sich in der seltenen Pflanze niedergeschlagen haben, aus der das Gift gewonnen wird. Ich muss nach Myth Unnohyr reisen, den Giftmischer – einen Anhänger Talonas – zur Strecke bringen und eine Probe der giftigen Pflanze ins Dämmerwaldtal schaffen, damit der Hohepriester ein Gegengift daraus herstellen kann.~
+@12007 = ~Das perfekte Gift
 
-Alatoasz Berendim glaubt, der Schlüssel zum Verständnis des Giftes liege in den Ruinen einer alten elfischen Stadt. Er vermutet, dass die seltene Pflanze, aus der es gewonnen wurde, dort wächst. Um die Suche einzugrenzen, bat er mich, den Tempel des Oghma in Athkatla aufzusuchen und Schriften über das verlorene Königreich Keltormir zu ihm zu bringen.~
-
-@12006 = ~Das vollkommene Gift
-
-Ich brachte das Buch aus dem Tempel des Oghma zu Alatoasz Berendim. Der Ursprung der Giftpflanze weist nach Myth Unnohyr, einer zerstörten elfischen Stadt, deren Mythal bei Tag unbändige Magie und bei Nacht tote Magie hervorbringt. Diese Verderbnis scheint sich in der seltenen Pflanze niedergeschlagen haben, aus der das Gift gewonnen wird. Ich muss nach Myth Unnohyr reisen, den Giftmischer – einen Anhänger Talonas – zur Strecke bringen und eine Probe der giftigen Pflanze ins Dämmerwaldtal bringen, damit der Hohepriester ein Gegengift daraus herstellen kann.~
-
-@12007 = ~Das vollkommene Gift
-
-In Myth Unnohyr stellte ich den Anhänger Talonas und setzte seinem Treiben ein Ende. Nun muss ich eine Probe der giftigen Pflanze zu Alatoasz Berendim ins Dämmerwaldtal bringen, damit er ein Gegengift daraus herstellen kann.~
-
-@12008 = ~Das vollkommene Gift
+In Myth Unnohyr habe ich den Anhänger Talonas gestellt und seinem Treiben ein Ende gesetzt. Nun muss ich eine Probe der giftigen Pflanze zu Alatoasz Berendim ins Dämmerwaldtal bringen, damit er ein Gegengift daraus herstellen kann.~
+@12008 = ~Das perfekte Gift
 
 Ich habe die Giftpflanze namens Hainblüte gefunden. Nachdem ich den Anhänger Talonas besiegt habe, muss ich diese Pflanze zu Alatoasz Berendim ins Dämmerwaldtal bringen, damit er versuchen kann, ein Gegengift daraus zu brauen.~
+@12009 = ~Das perfekte Gift
 
-@12009 = ~Das vollkommene Gift
-
-Der Anhänger Talonas ist tot, und sein niederträchtiges Werk liegt in Trümmern. Ich brachte die Hainblüte zu Alatoasz Berendim ins Dämmerwaldtal, der versucht, ein Gegengift gegen das bereits in Amn verbreitete Gift schaffen zu können. Um das Heilmittel zu herzustellen, wird die Hilfe weiterer Glaubensgemeinschaften nötig sein.~
-
-// The antidote
-
+Der Anhänger Talonas ist tot, und sein niederträchtiges Werk liegt in Trümmern. Ich habe die Hainblüte zu Alatoasz Berendim ins Dämmerwaldtal gebracht, der versucht, ein Gegengift gegen das bereits in Amn verbreitete Gift zu schaffen. Um das Heilmittel herzustellen, wird die Hilfe weiterer Glaubensgemeinschaften nötig sein.~
 @12100 = ~Das Gegengift
 
-Alatoasz hofft, dass die Hainblüte gereinigt und in ein Gegengift verwandelt werden kann. Dazu muss die Blume dreifach gesegnet werden – mit den göttlichen Aspekten Leben, Mitgefühl und Erneuerung. Alatoasz hat mir den ersten Segen selbst gewährt, doch die beiden anderen muss ich anderswo erhalten.~
-
+Alatoasz hofft, dass die Hainblüte gereinigt und in ein Gegengift verwandelt werden kann. Dazu muss die Blume dreifach gesegnet werden – mit den göttlichen Aspekten Leben, Mitgefühl und Erneuerung. Alatoasz hat mir den ersten Segen selbst gewährt, doch die beiden anderen muss ich anderswo erhalten.~
 @12101 = ~Das Gegengift: Ilmaters Segen des Mitgefühls
 
 Ich soll zum Tempel des Ilmater in den Slums von Athkatla reisen und um den Segen des Mitgefühls bitten. Alatoasz ist überzeugt, dass die Ilmater-Priester unserer Sache ohne Zögern beistehen werden.~
-
 @12102 = ~Das Gegengift: Lathanders Segen der Erneuerung
 
 Ich muss die Kirche Lathanders in Athkatla aufsuchen, um den Segen der Erneuerung zu empfangen.~
-
 @12103 = ~Das Gegengift: Eldaths Wasser
 
-Alatoasz wies mich an, eine Karaffe von Eldaths Wasser aus der Grotte im Dämmerwaldtal zu holen. Die Dienerin am heiligen Becken wird es mir geben.~
-
+Alatoasz hat mich angewiesen, eine Karaffe von Eldaths Wasser aus der Grotte im Dämmerwaldtal zu holen. Die Dienerin am heiligen Becken wird es mir geben.~
 @12104 = ~Das Gegengift: Ilmaters Segen des Mitgefühls
 
-Ich erhielt den Segen des Mitgefühls von Ilmater in den Slums.~
-
+Ich habe den Segen des Mitgefühls von Ilmater-Priestern in den Slums erhalten.~
 @12105 = ~Das Gegengift: Lathanders Segen der Erneuerung
 
-Lathander habt mir den Segen der Erneuerung gewährt.~
-
+Lathander hat mir den Segen der Erneuerung gewährt.~
 @12106 = ~Das Gegengift: Eldaths Wasser
 
 Ich habe einen Krug von Eldaths Wasser aus der Grotte Im Dämmerwaldtal erhalten. Nun bleibt nur noch, mit der gesegneten Blume und dem heiligen Wasser zu Alatoasz zurückzukehren.~
-
 @12107 = ~Das Gegengift
 
-Alle drei Segnungen wurden gesammelt – Leben, Mitgefühl und Erneuerung – und ich habe Eldaths Wasser erhalten. Nun muss ich zu Alatoasz im Dämmerwaldtal zurückkehren, damit das Gegengift endlich erschaffen werden kann.~
-
+Ich habe alle drei Segen eingesammelt – Leben, Mitgefühl und Erneuerung – und ich Eldaths Wasser erhalten. Nun muss ich zu Alatoasz im Dämmerwaldtal zurückkehren, damit endlich das Gegengift erschaffen werden kann.~
 @12108 = ~Das Gegengift
 
-Ich habe alles zusammengetragen: die Hainblüte, die Segnungen und eine Karaffe von Eldaths singendem Wasser. Alatoasz glaubt, dass die geweihte Blume mit dem heiligen Wasser im Kessel des Talona-Anhängers zur Herstellung des Gegengiftes in den Ruinen von Myth Unnohyr vereint werden müssen – genau dort, wo das Gift einst gebraut worden ist.~
-
+Ich habe alles zusammengetragen: die Hainblüte, die Segen und eine Karaffe von Eldaths singendem Wasser. Alatoasz glaubt, dass die geweihte Blume mit dem heiligen Wasser im Kessel des Talona-Anhängers zur Herstellung des Gegengiftes in den Ruinen von Myth Unnohyr vereint werden müssen – genau dort, wo das Gift einst gebraut worden ist.~
 @12110 = ~Das Gegengift
 
-Das Ritual ist vollzogen. Ich vernichtete eine Giftinkarnation, und das Gift der Hainblüte wurde getilgt. Ich muss das Gegengift zu Alatoasz Berendim ins Dämmerwaldtal bringen.~
-
+Das Ritual war erfolgreich, und die Verderbnis der Hainblüte wurde beseitigt. Ich muss das Gegenmittel zum Hüter der Stillen Wasser Alatoasz Berendim ins Dämmerwaldtal zurückbringen.~
 @12111 = ~Das Gegengift
 
-Ich übergab das Gegengift Alatoasz Berendim, und er nahm es dankbar entgegen. Das Übel, das einst die Länder der Intrigen bedrohte, kann sich nicht weiter ausbreiten.~
-
-/******************************
-SIDE quest journal entries
-******************************/
-// Dämmerwaldtal – Missing Faerie Twins Quest
-
+Ich habe das Gegengift Alatoasz Berendim gegeben, und er hat es dankbar entgegengenommen. Das Übel, das einst die Länder der Intrigen bedrohte, kann sich nicht weiter ausbreiten.~
 @13000 = ~Die verschwundenen Feenzwillinge
 
-Die Feen von Dämmerwaldtal sind verschwunden. Bruder Edrim bat mich, ihrem Verschwinden nachzugehen. Zuletzt wurden die Zwillinge im Gespräch mit einem Händler gesehen, der in leuchtend rote Seide gekleidet war und mit einem seltsamen, rollenden "R" sprach. Er zog weiter nach Westen in Richtung Athkatla und könnte sich unter den Händlern in Waukeens Promenade aufhalten. Wenn er tatsächlich mit magischen Kuriositäten handelt, werde ich ihn dort finden.~
-
+Die Feen von Dämmerwaldtal sind verschwunden. Bruder Edrim hat mich gebeten, ihrem Verschwinden nachzugehen. Zuletzt wurden die Zwillinge im Gespräch mit einem Händler gesehen, der in leuchtend rote Seide gekleidet war und mit einem seltsamen, rollenden „R“ gesprochen hat. Er ist weiter nach Westen in Richtung Athkatla gezogen und könnte sich unter den Händlern in Waukeens Promenade aufhalten. Wenn er tatsächlich mit magischen Kuriositäten handelt, werde ich ihn dort finden.~
 @13001 = ~Die verschwundenen Feenzwillinge
 
-Zwischen den Ständen von Waukeens Promenade bin ich einem merkwürdigen Händler begegnet, der Bruder Edrims Beschreibung entspricht — ein Mann in roter Seide, der mit seltsamen Waren handelt. Etwas an ihm fühlt sich falsch an.~
-
+Zwischen den Ständen von Waukeens Promenade bin ich einem merkwürdigen Händler begegnet, der Bruder Edrims Beschreibung entspricht – einem Mann in roter Seide, der mit seltsamen Waren handelt. Etwas an ihm fühlt sich falsch an.~
 @13002 = ~Die verschwundenen Feenzwillinge
 
-Der Händler, der sich Zar’khaan nannte, war in Wahrheit kein Händler, sondern ein verkleideter Rakshasa. Ich muss herausfinden, ob er die Zwielicht-Zwillinge bei sich trägt — vielleicht eingeschlossen in einem kleinen Gefäß oder einem verzauberten Schmuckstück.~
-
+Der Händler, der sich Zar’khaan nannte, war in Wahrheit kein Händler, sondern ein verkleideter Rakshasa. Ich muss herausfinden, ob er die Zwielicht-Zwillinge bei sich trägt, vielleicht eingeschlossen in einem kleinen Gefäß oder einem verzauberten Schmuckstück.~
 @13003 = ~Die verschwundenen Feenzwillinge
 
-Ich habe die Zwielicht-Zwillinge gefunden. Der Rakshasa hielt sie in einem magischen Gefäß gefangen, versiegelt durch mächtige Zauber. Die Feen scheinen unversehrt, doch das Glas lässt sich nicht öffnen. Ich sollte es zu Bruder Edrim ins Dämmerwaldtal zurückbringen — vielleicht weiß er, wie das Siegel zu brechen ist.~
-
+Ich habe die Zwielicht-Zwillinge gefunden. Der Rakshasa hatte sie in einem magischen Gefäß gefangen gehalten, versiegelt durch mächtige Zauber. Die Feen scheinen unversehrt, doch das Glas lässt sich nicht öffnen. Ich sollte es zu Bruder Edrim ins Dämmerwaldtal zurückbringen. Vielleicht weiß er, wie das Siegel zu brechen ist.~
 @13004 = ~Die verschwundenen Feenzwillinge
 
-Ich brachte das Feenglas zurück zu Bruder Edrim ins Dämmerwaldtal. Es gelang ihm, das Siegel zu öffnen und die Zwielicht-Zwillinge unversehrt zu befreien. Frieden — und ein wenig Unfug — sind in das Dämmerwaldtal zurückgekehrt.~
-
-// Mythal forge amulet
-
+Ich habe das Feenglas zurück zu Bruder Edrim ins Dämmerwaldtal gebracht. Es ist ihm gelungen, das Siegel zu öffnen und die Zwielicht-Zwillinge unversehrt zu befreien. Frieden – und ein wenig Unfug – sind in das Dämmerwaldtal zurückgekehrt.~
 @13010 = ~Das Ungebundene binden
 
-Unter den Überresten eines toten Magiers fand ich eine Notiz, die den Mythal Myth Unnohyrs beschrieb. Der Magier glaubte, es sei möglich, einen uralten elfischen Talisman zu erschaffen, mit dessen Hilfe sein Träger der Verderbnis des Mythals widerstehen könne — sofern es gelänge, die Essenzen zweier seltener Irrlichter, geboren aus wilder und toter Magie, mit dem Amulett zu vereinen.~
-
+Unter den Überresten eines toten Magiers habe ich eine Notiz gefunden, die den Mythal Myth Unnohyrs beschrieb. Der Magier hat geglaubt, es sei möglich, einen uralten elfischen Talisman zu erschaffen, mit dessen Hilfe sein Träger der Verderbnis des Mythals widerstehen könne, sofern es gelänge, die Essenzen zweier seltener Irrlichter, geboren aus wilder und toter Magie, mit dem Amulett zu vereinen.~
 @13011 = ~Das Ungebundene binden
 
-Ich entdeckte einen uralten elfischen Amboss. Einst wurde er wohl genutzt, um feine Zierstücke zu fertigen. Wenn es einen Ort gibt, an dem sich magische Relikte neu verbinden lassen, dann hier.~
-
+Ich habe einen uralten elfischen Amboss entdeckt. Einst wurde er wohl genutzt, um feine Zierstücke zu fertigen. Wenn es einen Ort gibt, an dem sich magische Relikte neu verbinden lassen, dann hier.~
 @13012 = ~Das Ungebundene binden
 
-Ich fand eine zarte elfische Kette — vermutlich Teil eines Talismans. Einst muss sie einen Anhänger getragen haben.~
-
+Ich habe eine zarte elfische Kette gefunden – vermutlich Teil eines Talismans. Einst muss sie einen Anhänger getragen haben.~
 @13013 = ~Das Ungebundene binden
 
-Ich entdeckte einen kunstvoll gearbeiteten Amulettkopf elfischen Ursprungs. Seine Fassung scheint für eine Kette geschaffen. Wiederhergestellt könnten beide Teile einen vollständigen Talisman ergeben.~
-
+Ich habe einen kunstvoll gearbeiteten Amulettkopf elfischen Ursprungs entdeckt. Seine Fassung scheint für eine Kette geschaffen. Wiederhergestellt könnten beide Teile einen vollständigen Talisman ergeben.~
 @13014 = ~Das Ungebundene binden
 
-Ich erlangte die Essenz eines Wilden Irrlichts.~
-
+Ich habe die Essenz eines Wilden Irrlichts erlangt.~
 @13015 = ~Das Ungebundene binden
 
 Ich habe die Essenz eines Todes-Irrlichts eingefangen.~
-
 @13016 = ~Das Ungebundene binden
 
-Nun besitze ich alles, was nötig ist, um den im Brief beschriebenen Talisman zu schmieden: die elfische Kette, den Amulettkopf und die beiden Essenzen der Irrlichter — eine aus wilder Magie, eine aus toter. Vielleicht lassen sich ihre Kräfte an einem alten Amboss vereinen.~
-
+Nun besitze ich alles, was nötig ist, um den im Brief beschriebenen Talisman zu schmieden: die elfische Kette, den Amulettkopf und die beiden Essenzen der Irrlichter – eine aus Unbändiger Magie, eine aus toter. Vielleicht lassen sich ihre Kräfte an einem alten Amboss vereinen.~
 @13017 = ~Das Ungebundene binden
 
-Am alten Amboss verband ich die beiden Irrlichtessenzen mit dem wiederhergestellten elfischen Talisman. Das Relikt ist erneuert. Die Verderbnis des Mythals beeinflusst seinen Träger nun nicht länger.~
-
-// Banshee seeking head:
-
+Am alten Amboss habe ich die beiden Irrlichtessenzen mit dem wiederhergestellten elfischen Talisman verbunden. Das Relikt ist erneuert. Die Verderbnis des Mythals beeinflusst seinen Träger nun nicht länger.~
 @13020 = ~Klage der Verlorenen
 
-In den oberen Gemächern eines verfallenen Turmes in Myth Unnohyr begegnete ich einer Todesfee, die unaufhörlich den Tod ihres Geliebten beklagt. Sie sucht etwas, das sie an ihn erinnert — etwas, das ihrer Seele endlich Ruhe schenken könnte.~
-
+In den oberen Gemächern eines verfallenen Turmes in Myth Unnohyr bin ich einer Todesfee begegnet, die unaufhörlich den Tod ihres Geliebten beklagte. Sie sucht etwas, das sie an ihn erinnert – etwas, das ihrer Seele endlich Ruhe schenken könnte.~
 @13021 = ~Klage der Verlorenen
 
-Ich fand in den Ruinen von Myth Unnohyr einen abgetrennten elfischen Kopf — seine Züge seltsam friedlich trotz seines grausamen Schicksals.~
-
+Ich habe in den Ruinen von Myth Unnohyr einen abgetrennten elfischen Kopf gefunden – seine Züge seltsam friedlich trotz seines grausamen Schicksals.~
 @13022 = ~Klage der Verlorenen
 
-Ich brachte der Todesfee den Kopf ihres Geliebten zurück. Sie hauchte einen letzten Seufzer und verschwand.~
-
+Ich habe der Todesfee den Kopf ihres Geliebten zurückgebracht. Sie hauchte einen letzten Seufzer und verschwand.~
 @13023 = ~Klage der Verlorenen
 
-Ich zerstörte eine Todesfee, die einen verfallenen Turm in Myth Unnohyr heimsuchte. Ihr Klagen wird diesen Ort nicht länger heimsuchen.~
-
-// Honeymead Quest
-
+Ich habe eine Todesfee vernichtet, die in einem verfallenen Turm in Myth Unnohyr herumgespukt hat. Ihr Klagen wird diesen Ort nicht länger heimsuchen.~
 @13030 = ~Der Eldath-Honigmet
 
-Im Dämmerwaldtal traf ich einen Imker, der einen seltenen Honigmet braut. Er bat mich, eine einzelne Flasche zum Gasthaus "Die Fünf Krüge" in Athkatla zu bringen und sie dort zu einem angemessenen Preis an Samuel Donnerbölk zu verkaufen.~
-
+Im Dämmerwaldtal habe ich einen Imker getroffen, der einen seltenen Honigmet braut. Er hat mich gebeten, eine einzelne Flasche zum Gasthaus „Zu den Fünf Krügen“ in Athkatla zu bringen und sie dort zu einem angemessenen Preis an Samuel Donnerbölk zu verkaufen.~
 @13032 = ~Der Eldath-Honigmet
 
-Ich verkaufte die Flasche Honigmet an Samuel Donnerbölk für einhundert Goldstücke. Er schien mit dem Handel zufrieden zu sein.~
-
+Ich habe die Flasche Honigmet an Samuel Donnerbölk für 100 Goldstücke verkauft. Er schien mit dem Handel zufrieden zu sein.~
 @13033 = ~Der Eldath-Honigmet
 
-Ich verkaufte die Flasche Honigmet an Samuel Donnerbölk für fünfhundert Goldstücke. Ein fairer Preis für ein so erlesenes Gebräu.~
-
+Ich habe die Flasche Honigmet an Samuel Donnerbölk für 500 Goldstücke verkauft. Ein fairer Preis für ein so erlesenes Gebräu.~
 @13034 = ~Der Eldath-Honigmet
 
-Ich verkaufte die Flasche Honigmet an Samuel Donnerbölk für siebenhundertfünfzig Goldstücke. Der Wirt pries die Qualität, und seine Großzügigkeit floss beinahe so frei wie seine Münzen.~
-
+Ich habe die Flasche Honigmet an Samuel Donnerbölk für 750 Goldstücke verkauft. Der Wirt hat die Qualität gepriesen, und seine Großzügigkeit floss beinahe so frei wie seine Münzen.~
 @13035 = ~Der Eldath-Honigmet
 
-Ich verkaufte die Flasche Honigmet an Samuel Donnerbölk für eintausend Goldstücke. Er nannte es einen Nektar jenseits allen Preises — und zahlte entsprechend.~
-
+Ich habe die Flasche Honigmet an Samuel Donnerbölk für 1.000 Goldstücke verkauft. Er hat es einen Nektar jenseits allen Preises genannt – und entsprechend gezahlt.~
 @13036 = ~Der Eldath-Honigmet
 
-Ich kehrte nach Dämmerwaldtal zurück und überbrachte dem Imker einhundert Goldstücke für den Honigmet. Er nahm das Geld mit stiller Enttäuschung entgegen.~
-
+Ich bin nach Dämmerwaldtal zurückgekehrt und habe dem Imker 100 Goldstücke für den Honigmet überbracht. Er hat das Geld mit stiller Enttäuschung entgegengenommen.~
 @13037 = ~Der Eldath-Honigmet
 
-Ich brachte dem Imker fünfhundert Goldstücke für den Honigmet. Er lächelte schwach und dankte mir für meine Ehrlichkeit.~
-
+Ich habe dem Imker 500 Goldstücke für den Honigmet gebracht. Er hat schwach und gelächelt mir für meine Ehrlichkeit gedankt.~
 @13038 = ~Der Eldath-Honigmet
 
-Ich überreichte dem Imker siebenhundertfünfzig Goldstücke für den Honigmet. Er war angenehm überrascht.~
-
+Ich habe dem Imker 750 Goldstücke für den Honigmet überbracht. Er war angenehm überrascht.~
 @13039 = ~Der Eldath-Honigmet
 
-Ich brachte dem Imker eintausend Goldstücke für den Honigmet. Er war von meiner Großzügigkeit überwältigt.~
-
-// Boy and worm
-
+Ich habe dem Imker 1.000 Goldstücke für den Honigmet überbracht. Er war von meiner Großzügigkeit überwältigt und hat ein inniges Gebet auf meinen Namen gesprochen.~
 @13040 = ~Der kleine Angler
 
-Ein Junge am Steg im Dämmerwaldtal bat mich, ihm einen Wurm zum Angeln zu besorgen.~
-
+Ein Junge am Steg im Dämmerwaldtal hat mich gebeten, ihm einen Wurm zum Angeln zu besorgen.~
 @13041 = ~Der kleine Angler
 
-Ich fand einen Wurm, der sich in der weichen Erde im Dämmerwaldtal wand. Vielleicht wird dies der glückbringende Fang, nach dem der Junge sucht.~
-
+Ich habe einen Wurm gefunden, der sich in der weichen Erde im Dämmerwaldtal gewunden hat. Vielleicht wird dies der glückbringende Fang, nach dem der Junge sucht.~
 @13042 = ~Der kleine Angler
 
-Ich gab dem Jungen am Steg den Wurm. Statt ihn als Köder zu verwenden, beschloss er, ihn als Haustier zu behalten. Die beiden scheinen recht zufrieden miteinander.~
-
+Ich habe dem Jungen am Steg den Wurm gegeben. Statt ihn als Köder zu verwenden, hat er beschlossen, ihn als Haustier zu behalten. Die beiden scheinen recht zufrieden miteinander.~
 @13043 = ~Der kleine Angler
 
-Ich warf den Wurm ins Wasser, anstatt ihn dem Jungen zu geben. Der Bengel brach in Tränen aus, beschimpfte mich aufs Übelste und lief davon. Ich bezweifle, dass ich am Steg noch weiter willkommen bin.~
-
-// Montrassa - emblem
-
+Ich habe den Wurm ins Wasser geworfen, anstatt ihn dem Jungen zu geben. Der Bengel ist in Tränen ausgebrochen,hat mich aufs Übelste beschimpft und ist davongelaufen. Ich bezweifle, dass ich am Steg noch weiter willkommen bin.~
 @13050 = ~Das Emblem Eldaths
 
-Im Dämmerwaldtal traf ich eine betagte Eldath-Priesterin namens Montrassa. Ihre Hände zittern vor Alter, und sie kann die heiligen Embleme für ihren Tempel nicht länger schnitzen. Sie lehnte es ab, Merethans Emblem anzunehmen. Vielleicht sollte ich mit Alatoasz Berendim darüber sprechen.~
-
+Im Dämmerwaldtal habe ich eine betagte Eldath-Priesterin namens Montrassa getroffen. Ihre Hände haben vor Alter gezittert, und sie konnte die heiligen Embleme für ihren Tempel nicht länger schnitzen. Sie hat es abgelehnt, Merethans Emblem anzunehmen. Vielleicht sollte ich mit Alatoasz Berendim darüber sprechen.~
 @13051 = ~Das Emblem Eldaths
 
-Alatoasz stimmte zu, dass Montrassa würdig ist, Merethans Emblem zu tragen. Ich sollte es ihr überbringen, damit sie das Zeichen ihrer Göttin wieder bei sich tragen kann.~
-
+Alatoasz hat zugestimmt, dass Montrassa würdig ist, Merethans Emblem zu tragen. Ich sollte es ihr überbringen, damit sie das Zeichen ihrer Göttin wieder bei sich tragen kann.~
 @13052 = ~Das Emblem Eldaths
 
-Ich gab Montrassa Merethans Emblem. Sie war sehr dankbar.~
-
-// Siren
-
+Ich habe Montrassa Merethans Emblem gegeben. Sie war sehr dankbar.~
 @13060 = ~Die zornige Sirene
 
-Im Dämmerwaldtal begegnete ich einer Sirene, die von Zorn gequält wird. Vielleicht weiß jemand im Tal, wie sich ihre Unrast besänftigen lässt.~
-
+Im Dämmerwaldtal bin ich einer Sirene begegnet, die von Zorn gequält wurde. Vielleicht weiß jemand im Tal, wie sich ihre Unrast besänftigen lässt.~
 @13061 = ~Die zornige Sirene
 
-Eine betagte Eldath-Priesterin gab mir einen Krug voll Kräuter. Sie glaubt, dieser könne das Herz der Sirene beruhigen.~
-
+Eine betagte Eldath-Priesterin hat mir einen Krug voll Kräuter gegeben. Sie glaubt, dieser könne das Herz der Sirene beruhigen.~
 @13062 = ~Die zornige Sirene
 
-Ich gab der Sirene das Gebräu. Aus Dankbarkeit überließ sie mir ihre alten Pfeile.~
-
-
-// HALFLING
-
+Ich habe der Sirene das Gebräu gegeben. Aus Dankbarkeit hat sie mir ihre alten Pfeile überlassen.~
 @13072 = ~Die Halblingshändlerin
 
-In der Wildnis traf ich eine Halblingshändlerin namens Debbie Gobblebubble. Sie beschloss, nach Handelstreff zu reisen, wo ihre Kochkünste und Waren womöglich auf größere Wertschätzung stoßen.~
-
+In der Wildnis habe ich eine Halblingshändlerin namens Debbie Gobbelbobbel getroffen. Sie hat beschlossen, nach Handelstreff zu reisen, wo ihre Kochkünste und Waren womöglich auf größere Wertschätzung stoßen.~
 @13073 = ~Die Halblingshändlerin
 
-In der Wildnis traf ich eine Halblingshändlerin namens Debbie Gobblebubble. Sie ist nach Athkatla aufgebrochen, um ihr Glück unter den Händlern auf Waukeens Promenade zu versuchen.~
-
+In der Wildnis habe ich eine Halblingshändlerin namens Debbie Gobbelbobbel getroffen. Sie ist nach Athkatla aufgebrochen, um ihr Glück unter den Händlern auf Waukeens Promenade zu versuchen.~
 @13074 = ~Die Halblingshändlerin
 
-In der Wildnis traf ich eine Halblingshändlerin namens Debbie Gobblebubble. Sie entschied sich, zur Abtei der Goldspitzen zu reisen; dem Heiligtum aller Kaufleute, die Waukeen dienen.~
-
-// Mannatarv wants to die
-
+In der Wildnis habe ich eine Halblingshändlerin namens Debbie Gobbelbobbel getroffen. Sie hat sich entschieden, zur Abtei der Goldspitzen zu reisen – dem Heiligtum aller Kaufleute, die Waukeen dienen.~
 @13080 = ~Ein friedvoller Tod
 
-Im Dämmerwaldtal traf ich einen alten Mann namens Mannatarv. Er ist bereit zu sterben, doch die Priester Eldaths verweigern ihm den Tod. Er bat mich, ihm ein Blatt der Hainblüte zu bringen, ehe ein Gegengift bereitet wird, damit er diese Welt verlassen kann.~
-
+Im Dämmerwaldtal habe ich einen alten Mann namens Mannatarv getroffen. Er ist bereit zu sterben, doch die Priester Eldaths verweigern ihm den Tod. Er hat mich gebeten, ihm ein Blatt der Hainblüte zu bringen, ehe ein Gegengift bereitet wird, damit er diese Welt verlassen kann.~
 @13081 = ~Ein friedvoller Tod
 
-Ich stimmte Mannatarvs Bitte zu. Er wartet in der Krankenstube vom Dämmerwaldtal auf das Gift, bereit, seinem Leben ein Ende zu setzen.~
-
+Ich habe Mannatarvs Bitte zugestimmt. Er wartet in der Krankenstube vom Dämmerwaldtal auf das Gift, bereit, seinem Leben ein Ende zu setzen.~
 @13082 = ~Ein friedvoller Tod
 
-Ich gab Mannatarv ein Blatt der Hainblüte. Er dankte mir  — und starb.~
-
+Ich habe Mannatarv ein Blatt der Hainblüte gegeben. Er hat mir gedankt – und ist dann gestorben.~
 @13083 = ~Ein friedvoller Tod
 
-Ich beschloss, Mannatarv nicht zu helfen. Die Priester Eldaths werden ihn weiter mit ihrer Heilkunst am Leben erhalten, ob er es wünscht oder nicht.~
-
-// Wadal Hrun
-
+Ich habe beschlossen, Mannatarv nicht zu helfen. Die Priester Eldaths werden ihn weiter mit ihrer Heilkunst am Leben erhalten, ob er es wünscht oder nicht.~
 @13090 = ~Der Turm des Giftmischers
 
-Nahe den vergifteten Ruinen von Myth Unnohyr begegnete ich einem Yuan-Ti-Diener des Taloniten. Die Kreatur ist irgendwo innerhalb der Stadt untergetaucht, und der Zugang zum Turm des Giftmischers bleibt durch ein unbekanntes Bannzeichen versiegelt.~
-
+Nahe den vergifteten Ruinen von Myth Unnohyr bin ich einem Yuan-Ti-Diener der Taloniten begegnet. Die Kreatur ist irgendwo innerhalb der Stadt untergetaucht, und der Zugang zum Turm des Giftmischers bleibt durch ein unbekanntes Bannzeichen versiegelt.~
 @13091 = ~Der Turm des Giftmischers
 
-Ich tötete den Yuan-Ti. Unter seinen Habseligkeiten befand sich ein kleiner Ionenstein. Wahrscheinlich dient er als Schlüssel zum Turm des Giftmischers.~
-
-// Grotto quest
-
+Ich habe den Yuan-Ti getötet. Unter seinen Habseligkeiten befand sich ein kleiner Ionenstein. Wahrscheinlich dient er als Schlüssel zum Turm des Giftmischers.~
 @13110 = ~Wo Stahl verstummt
 
-Die Hüterin der Grotte Im Dämmerwaldtal bietet mir an, alle Waffen, die ich nicht länger benötige, in Eldaths heiligem Wasser zur Ruhe zu legen. Sie versprach, dass ich dadurch ihren Segen empfangen könnte — zusammen mit einem Hauch zusätzlicher Lebenskraft.~
-
+Die Hüterin der Grotte im Dämmerwaldtal hat mir angeboten, alle Waffen, die ich nicht länger benötige, in Eldaths heiligem Wasser zur Ruhe zu legen. Sie hat versprochen, dass ich dadurch ihren Segen empfangen könnte, zusammen mit einem Hauch zusätzlicher Lebenskraft.~
 @13111 = ~Wo Stahl verstummt
 
-Ich opferte eine meiner Waffen dem Wasser und spürte einen Hauch von Eldaths Frieden.~
-
-// Runaway Nephew
-
+Ich habe eine meiner Waffen dem Wasser geopfert und einen Hauch von Eldaths Frieden gespürt.~
 @13120 = ~Der entlaufene Neffe
 
-Im Dämmerwaldtal traf ich einen jungen Mann, der vor seiner Tante im Regierungsviertel von Athkatla geflohen war. Zwischen Marmor und Münzen aufgewachsen, sehnt er sich nach einem einfachen Leben unter Eldaths Gläubigen. Er bat mich, seiner Tante eine Blume zu bringen und ihr zu sagen, dass es ihm gut gehe.~
-
+Im Dämmerwaldtal habe ich einen jungen Mann getroffen, der vor seiner Tante im Regierungsviertel von Athkatla geflohen war. Zwischen Marmor und Münzen aufgewachsen, sehnt er sich nach einem einfachen Leben unter Eldaths Gläubigen. Er hat mich gebeten, seiner Tante eine Blume zu bringen und ihr zu sagen, dass es ihm gut gehe.~
 @13121 = ~Der entlaufene Neffe
 
-Ich traf die Tante des Jungen im Regierungsviertel von Athkatla. Zunächst war sie zornig, doch die Botschaft — und die Blume — milderten ihren Ärger. Sie trug mir auf, ihrem Neffen auszurichten, beim nächsten Mal solle er die Blumen selbst bringen.~
-
+Ich habe die Tante des Jungen im Regierungsviertel von Athkatla getroffen. Zunächst war sie zornig gewesen, doch die Botschaft – und die Blume – haben ihren Ärger gemildert. Sie hat mir aufgetragen, ihrem Neffen auszurichten, dass er beim nächsten Mal die Blumen selbst bringen solle.~
 @13122 = ~Der entlaufene Neffe
 
-Ich kehrte zu dem Jungen nach Dämmerwaldtal zurück und berichtete ihm von den Worten seiner Tante. Nun kann er sich endlich auf das Leben konzentrieren, das er wirklich führen will.~
-
+Ich bin zu dem Jungen nach Dämmerwaldtal zurückgekehrt und habe ihm von den Worten seiner Tante berichtet. Nun kann er sich endlich auf das Leben konzentrieren, das er wirklich führen will.~
 @13123 = ~Der entlaufene Neffe
 
-Ich traf die Tante des Jungen im Regierungsviertel von Athkatla und übergab ihr die Blume.~
-
-
-// Coinquest
-
+Ich habe die Tante des Jungen im Regierungsviertel von Athkatla getroffen und ihr die Blume übergeben.~
 @13130 = ~Das gebrochene Versprechen
 
-Ich fand eine zerknitterte Notiz bei einem toten Abenteurer. Darin war von einem nächtlichen Treffen hinter dem Tempel des Helm im Brückenviertel von Athkatla die Rede, um zu erhalten, worum jemand gebeten hatte. Die Nachricht war an einen Mann namens Marrik gerichtet. Zudem fand ich eine abgenutzte Münze mit dem Antlitz eines alten Mannes. Vielleicht stehen beide Dinge in Zusammenhang.~
-
+Ich habe eine zerknitterte Notiz bei einem toten Abenteurer gefunden. Darin ist von einem nächtlichen Treffen hinter dem Tempel des Helm im Brückenviertel von Athkatla die Rede, um zu erhalten, worum jemand gebeten hatte. Die Nachricht ist an einen Mann namens Marrik gerichtet. Zudem habe ich eine abgenutzte Münze mit dem Antlitz eines alten Mannes gefunden. Vielleicht stehen beide Dinge in Zusammenhang.~
 @13131 = ~Das gebrochene Versprechen
 
-Hinter dem Tempel des Helm im Brückenviertel traf ich einen Mann und zeigte ihm die Münze. Er schickte mich zu einem weiteren Treffpunkt hinter dem Tempel des Lathander im Tempelviertel — wiederum nach Einbruch der Dunkelheit. Er sagte, ich würde erhalten, weshalb ich gekommen sei, doch ich habe keine Ahnung, was das bedeuten soll.~
-
+Hinter dem Tempel des Helm im Brückenviertel habe ich einen Mann getroffen und ihm die Münze gezeigt. Er hat mich zu einem weiteren Treffpunkt hinter dem Tempel des Lathander im Tempelviertel geschickt – wiederum nach Einbruch der Dunkelheit. Er hat gesagt, ich würde erhalten, weshalb ich gekommen sei, doch ich habe keine Ahnung, was das bedeuten soll.~
 @13132 = ~Das gebrochene Versprechen
 
-Hinter dem Tempel des Lathander schien meine Anwesenheit — und die Münze — bereits erwartet zu werden. Der Mann dort erklärte, das nächste Treffen finde beim Tempel der Waukeen im Regierungsviertel statt, sobald die Nacht hereinbricht. Noch immer hat mir niemand erklärt, was ich dort empfangen soll.~
-
+Hinter dem Tempel des Lathander schien meine Anwesenheit – und die Münze – bereits erwartet zu werden. Der Mann dort hat erklärt, das nächste Treffen finde beim Tempel der Waukeen im Regierungsviertel statt, sobald die Nacht hereinbricht. Noch immer hat mir niemand erklärt, was ich dort in Empfang nehmen soll.~
 @13133 = ~Das gebrochene Versprechen
 
-Am Tempel der Waukeen wurde ich erneut weitergeschickt. Man sprach von einem letzten Treffen, diesmal bei Nacht hinter dem Tempel des Ilmater in den Slums. Jedes Versprechen klingt gleich: Dass ich erhalten werde, was ich wollte. Doch ich bin mir längst nicht mehr sicher, was das überhaupt war.~
-
+Am Tempel der Waukeen bin ich erneut weitergeschickt geworden. Man hat von einem letzten Treffen gesprochen, diesmal bei Nacht hinter dem Tempel des Ilmater in den Slums. Jedes Versprechen klingt gleich: dass ich erhalten werde, was ich wollte. Doch ich bin mir längst nicht mehr sicher, was das überhaupt sein soll.~
 @13134 = ~Das gebrochene Versprechen
 
-Hinter dem Tempel des Ilmater traf ich schließlich den Mann, von dem die anderen gesprochen hatten. Er fragte nach einem Geas, dem ich angeblich unterliege — doch der Brief, den ich bei mir trug, gehörte einem längst Verstorbenen. Welche Last oder Bitte auch immer der ursprüngliche Absender zu lösen hoffte, sie fand ihr Ende anderswo — und hatte nie etwas mit mir zu tun.~
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Hinter dem Tempel des Ilmater habe ich schließlich den Mann getroffen, von dem die anderen gesprochen hatten. Er hat nach einem Geas gefragt, dem ich angeblich unterliege. Doch der Brief, den ich bei mir getragen habe, gehörte einem längst Verstorbenen. Welche Last oder Bitte auch immer der ursprüngliche Absender zu lösen hoffte – sie fand ihr Ende anderswo, und hatte nie etwas mit mir zu tun.~
