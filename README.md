@@ -68,6 +68,7 @@ This mod is available in:
 - **Spanish**
 - **German**
 - **Chinese**
+- **Italian**
 
 ## Compatibility
 
