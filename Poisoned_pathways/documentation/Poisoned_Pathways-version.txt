@@ -1,3 +1,6 @@
+V 1.6
+- added Italian Version by Sauler - thank you!
+
 V 1.5
 - revised German Translation, by Shai Hulud - thank you!
 - updated Chinese Translation

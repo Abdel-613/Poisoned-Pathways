@@ -2,7 +2,7 @@
 BACKUP ~Poisoned_pathways/backup~
 AUTHOR ~Acifer~
 README ~Poisoned_pathways/documentation/Poisoned_Pathways_Readme.pdf~
-VERSION ~v1.5~
+VERSION ~v1.6~
 
 ALWAYS
 
@@ -56,6 +56,11 @@ LANGUAGE ~Chinese by Abdel-613~
          ~schinese~
          ~Poisoned_pathways/language/schinese/Setup-Poisoned_pathways.tra~
          ~Poisoned_pathways/language/schinese/Poisoned_pathways_Journal.tra~
+         
+LANGUAGE ~Italiano by Sauler~
+         ~italian~
+         ~Poisoned_pathways/language/italian/Setup-Poisoned_pathways.tra~
+         ~Poisoned_pathways/language/italian/Poisoned_pathways_Journal.tra~
 
 BEGIN ~Poisoned pathways~
 
